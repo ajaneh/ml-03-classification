@@ -148,3 +148,11 @@ dtype: int64
 2026-07-09 12:39:24 | INFO | ML | shell=powershell
 2026-07-09 12:39:24 | INFO | ML | cwd=.
 2026-07-09 12:39:24 | INFO | ML | github_actions=False
+2026-07-09 12:50:12 | INFO | ML | === RUN START ===
+2026-07-09 12:50:12 | INFO | ML | project=ML
+2026-07-09 12:50:12 | INFO | ML | repo_dir=ml-03-classification
+2026-07-09 12:50:12 | INFO | ML | python=3.14.0
+2026-07-09 12:50:12 | INFO | ML | os=Windows 11
+2026-07-09 12:50:12 | INFO | ML | shell=powershell
+2026-07-09 12:50:12 | INFO | ML | cwd=.
+2026-07-09 12:50:12 | INFO | ML | github_actions=False
