@@ -21,19 +21,12 @@ to get the example projects running on your machine.
 
 ## Phase 4. Technical Modification
 
-Describe your small technical modification to the example project.
+In phase 4 I added a pairplot to look at the relationships between the numerical data first with simple scatter plots and then with the kde option to see which features showed distinct species clusters.
 
-Include:
+The example model already shows feature weights and bill depth and body mass have 1/10th the weight of the other 2 features. It's interesting to see that those two features show the most cluster overlap.
 
-- What you changed
-- Why you chose that change
-- How you verified that it worked
-- What result, output, chart, metric, or behavior confirmed the change
-
-Compared with the example project,
-explain what is different and why the change matters.
-
-Was it easy, or surprisingly challenging and why do you think so?
+![Pairplot KDE](images/kde.png)
+![Scatter Pair](./images/penguin_pairplot.png)
 
 ## Phase 5. Custom Project
 

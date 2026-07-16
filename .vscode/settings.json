@@ -46,5 +46,8 @@
     "*.csv": "duckdb.dataFileViewer",
     "*.tsv": "duckdb.dataFileViewer",
     "*.xlsx": "duckdb.dataFileViewer"
-  }
+  },
+  "cSpell.words": [
+    "pairplot"
+  ]
 }
