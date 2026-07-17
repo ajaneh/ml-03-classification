@@ -48,6 +48,13 @@
     "*.xlsx": "duckdb.dataFileViewer"
   },
   "cSpell.words": [
-    "pairplot"
+    "annot",
+    "classif",
+    "cmap",
+    "colorbar",
+    "coolwarm",
+    "figsize",
+    "pairplot",
+    "selectkbest"
   ]
 }

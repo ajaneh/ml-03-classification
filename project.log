@@ -290,3 +290,1847 @@ weighted avg       0.99      0.99      0.99        69
 2026-07-16 11:37:20 | INFO | ML | shell=powershell
 2026-07-16 11:37:20 | INFO | ML | cwd=.
 2026-07-16 11:37:20 | INFO | ML | github_actions=False
+2026-07-17 11:02:06 | INFO | M03 | === RUN START ===
+2026-07-17 11:02:06 | INFO | M03 | project=M03
+2026-07-17 11:02:06 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 11:02:06 | INFO | M03 | python=3.14.0
+2026-07-17 11:02:06 | INFO | M03 | os=Windows 11
+2026-07-17 11:02:06 | INFO | M03 | shell=powershell
+2026-07-17 11:02:06 | INFO | M03 | cwd=notebooks
+2026-07-17 11:02:06 | INFO | M03 | github_actions=False
+2026-07-17 11:02:06 | INFO | M03 | Confirming installation:
+2026-07-17 11:02:06 | INFO | M03 |   python:       3.14.0
+2026-07-17 11:02:06 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 11:02:06 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 11:02:06 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 11:02:06 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 11:02:06 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 11:03:47 | INFO | M03 | === RUN START ===
+2026-07-17 11:03:47 | INFO | M03 | project=M03
+2026-07-17 11:03:47 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 11:03:47 | INFO | M03 | python=3.14.0
+2026-07-17 11:03:47 | INFO | M03 | os=Windows 11
+2026-07-17 11:03:47 | INFO | M03 | shell=powershell
+2026-07-17 11:03:47 | INFO | M03 | cwd=notebooks
+2026-07-17 11:03:47 | INFO | M03 | github_actions=False
+2026-07-17 11:03:47 | INFO | M03 | Confirming installation:
+2026-07-17 11:03:47 | INFO | M03 |   python:       3.14.0
+2026-07-17 11:03:47 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 11:03:47 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 11:03:47 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 11:03:47 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 11:03:47 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 11:03:47 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 11:04:29 | INFO | M03 | === RUN START ===
+2026-07-17 11:04:29 | INFO | M03 | project=M03
+2026-07-17 11:04:29 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 11:04:29 | INFO | M03 | python=3.14.0
+2026-07-17 11:04:29 | INFO | M03 | os=Windows 11
+2026-07-17 11:04:29 | INFO | M03 | shell=powershell
+2026-07-17 11:04:29 | INFO | M03 | cwd=notebooks
+2026-07-17 11:04:29 | INFO | M03 | github_actions=False
+2026-07-17 11:04:29 | INFO | M03 | Confirming installation:
+2026-07-17 11:04:29 | INFO | M03 |   python:       3.14.0
+2026-07-17 11:04:29 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 11:04:29 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 11:04:29 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 11:04:29 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 11:04:29 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 11:04:29 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 11:04:55 | INFO | M03 | === RUN START ===
+2026-07-17 11:04:55 | INFO | M03 | project=M03
+2026-07-17 11:04:55 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 11:04:55 | INFO | M03 | python=3.14.0
+2026-07-17 11:04:55 | INFO | M03 | os=Windows 11
+2026-07-17 11:04:55 | INFO | M03 | shell=powershell
+2026-07-17 11:04:55 | INFO | M03 | cwd=notebooks
+2026-07-17 11:04:55 | INFO | M03 | github_actions=False
+2026-07-17 11:04:55 | INFO | M03 | Confirming installation:
+2026-07-17 11:04:55 | INFO | M03 |   python:       3.14.0
+2026-07-17 11:04:55 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 11:04:55 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 11:04:55 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 11:04:55 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 11:04:55 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 11:04:55 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 11:04:55 | INFO | M03 | Missing values: 0
+2026-07-17 11:07:25 | INFO | M03 | === RUN START ===
+2026-07-17 11:07:25 | INFO | M03 | project=M03
+2026-07-17 11:07:25 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 11:07:25 | INFO | M03 | python=3.14.0
+2026-07-17 11:07:25 | INFO | M03 | os=Windows 11
+2026-07-17 11:07:25 | INFO | M03 | shell=powershell
+2026-07-17 11:07:25 | INFO | M03 | cwd=notebooks
+2026-07-17 11:07:25 | INFO | M03 | github_actions=False
+2026-07-17 11:07:25 | INFO | M03 | Confirming installation:
+2026-07-17 11:07:25 | INFO | M03 |   python:       3.14.0
+2026-07-17 11:07:25 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 11:07:25 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 11:07:25 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 11:07:25 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 11:07:25 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 11:07:25 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 11:07:25 | INFO | M03 | Missing values: 0
+2026-07-17 11:08:01 | INFO | M03 | === RUN START ===
+2026-07-17 11:08:01 | INFO | M03 | project=M03
+2026-07-17 11:08:01 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 11:08:01 | INFO | M03 | python=3.14.0
+2026-07-17 11:08:01 | INFO | M03 | os=Windows 11
+2026-07-17 11:08:01 | INFO | M03 | shell=powershell
+2026-07-17 11:08:01 | INFO | M03 | cwd=notebooks
+2026-07-17 11:08:01 | INFO | M03 | github_actions=False
+2026-07-17 11:08:01 | INFO | M03 | Confirming installation:
+2026-07-17 11:08:01 | INFO | M03 |   python:       3.14.0
+2026-07-17 11:08:01 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 11:08:01 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 11:08:01 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 11:08:01 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 11:08:01 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 11:08:01 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 11:08:01 | INFO | M03 | Missing values: 0
+2026-07-17 11:09:43 | INFO | M03 | === RUN START ===
+2026-07-17 11:09:43 | INFO | M03 | project=M03
+2026-07-17 11:09:43 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 11:09:43 | INFO | M03 | python=3.14.0
+2026-07-17 11:09:43 | INFO | M03 | os=Windows 11
+2026-07-17 11:09:43 | INFO | M03 | shell=powershell
+2026-07-17 11:09:43 | INFO | M03 | cwd=notebooks
+2026-07-17 11:09:43 | INFO | M03 | github_actions=False
+2026-07-17 11:09:43 | INFO | M03 | Confirming installation:
+2026-07-17 11:09:43 | INFO | M03 |   python:       3.14.0
+2026-07-17 11:09:43 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 11:09:43 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 11:09:43 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 11:09:43 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 11:09:43 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 11:09:43 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 11:09:43 | INFO | M03 | Missing values: 0
+2026-07-17 11:09:43 | INFO | M03 | Strong correlations with target:
+target                          1.000000
+flavanoids                      0.847498
+od280/od315_of_diluted_wines    0.788230
+total_phenols                   0.719163
+proline                         0.633717
+hue                             0.617369
+alcalinity_of_ash               0.517859
+Name: target, dtype: float64
+2026-07-17 11:22:12 | INFO | M03 | === RUN START ===
+2026-07-17 11:22:12 | INFO | M03 | project=M03
+2026-07-17 11:22:12 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 11:22:12 | INFO | M03 | python=3.14.0
+2026-07-17 11:22:12 | INFO | M03 | os=Windows 11
+2026-07-17 11:22:12 | INFO | M03 | shell=powershell
+2026-07-17 11:22:12 | INFO | M03 | cwd=notebooks
+2026-07-17 11:22:12 | INFO | M03 | github_actions=False
+2026-07-17 11:22:12 | INFO | M03 | Confirming installation:
+2026-07-17 11:22:12 | INFO | M03 |   python:       3.14.0
+2026-07-17 11:22:12 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 11:22:12 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 11:22:12 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 11:22:12 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 11:22:12 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 11:22:12 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 11:22:12 | INFO | M03 | Missing values: 0
+2026-07-17 11:30:00 | INFO | M03 | === RUN START ===
+2026-07-17 11:30:00 | INFO | M03 | project=M03
+2026-07-17 11:30:00 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 11:30:00 | INFO | M03 | python=3.14.0
+2026-07-17 11:30:00 | INFO | M03 | os=Windows 11
+2026-07-17 11:30:00 | INFO | M03 | shell=powershell
+2026-07-17 11:30:00 | INFO | M03 | cwd=notebooks
+2026-07-17 11:30:00 | INFO | M03 | github_actions=False
+2026-07-17 11:30:00 | INFO | M03 | Confirming installation:
+2026-07-17 11:30:00 | INFO | M03 |   python:       3.14.0
+2026-07-17 11:30:00 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 11:30:00 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 11:30:00 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 11:30:00 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 11:30:00 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 11:30:00 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 11:30:00 | INFO | M03 | Missing values: 0
+2026-07-17 11:30:00 | INFO | M03 | Correlation range for target variable: -0.8474975401417585 to 1.0
+2026-07-17 11:30:00 | INFO | M03 | Strong correlations with target:
+target                          1.000000
+alcalinity_of_ash               0.517859
+hue                            -0.617369
+proline                        -0.633717
+total_phenols                  -0.719163
+od280/od315_of_diluted_wines   -0.788230
+flavanoids                     -0.847498
+Name: target, dtype: float64
+2026-07-17 11:31:50 | INFO | M03 | === RUN START ===
+2026-07-17 11:31:50 | INFO | M03 | project=M03
+2026-07-17 11:31:50 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 11:31:50 | INFO | M03 | python=3.14.0
+2026-07-17 11:31:50 | INFO | M03 | os=Windows 11
+2026-07-17 11:31:50 | INFO | M03 | shell=powershell
+2026-07-17 11:31:50 | INFO | M03 | cwd=notebooks
+2026-07-17 11:31:50 | INFO | M03 | github_actions=False
+2026-07-17 11:31:50 | INFO | M03 | Confirming installation:
+2026-07-17 11:31:50 | INFO | M03 |   python:       3.14.0
+2026-07-17 11:31:50 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 11:31:50 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 11:31:50 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 11:31:50 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 11:31:50 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 11:31:50 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 11:31:50 | INFO | M03 | Missing values: 0
+2026-07-17 11:31:50 | INFO | M03 | Correlation range for target variable: -0.8474975401417585 to 1.0
+2026-07-17 11:31:50 | INFO | M03 | Strong correlations with target:
+alcohol                         False
+malic_acid                      False
+ash                             False
+alcalinity_of_ash                True
+magnesium                       False
+total_phenols                    True
+flavanoids                       True
+nonflavanoid_phenols            False
+proanthocyanins                 False
+color_intensity                 False
+hue                              True
+od280/od315_of_diluted_wines     True
+proline                          True
+target                           True
+Name: target, dtype: bool
+2026-07-17 11:32:40 | INFO | M03 | === RUN START ===
+2026-07-17 11:32:40 | INFO | M03 | project=M03
+2026-07-17 11:32:40 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 11:32:40 | INFO | M03 | python=3.14.0
+2026-07-17 11:32:40 | INFO | M03 | os=Windows 11
+2026-07-17 11:32:40 | INFO | M03 | shell=powershell
+2026-07-17 11:32:40 | INFO | M03 | cwd=notebooks
+2026-07-17 11:32:40 | INFO | M03 | github_actions=False
+2026-07-17 11:32:40 | INFO | M03 | Confirming installation:
+2026-07-17 11:32:40 | INFO | M03 |   python:       3.14.0
+2026-07-17 11:32:40 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 11:32:40 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 11:32:40 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 11:32:40 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 11:32:40 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 11:32:40 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 11:32:40 | INFO | M03 | Missing values: 0
+2026-07-17 11:32:40 | INFO | M03 | Correlation range for target variable: -0.8474975401417585 to 1.0
+2026-07-17 11:32:40 | INFO | M03 | Strong correlations with target:
+                              alcalinity_of_ash  total_phenols  flavanoids  \
+alcalinity_of_ash                      1.000000      -0.321113   -0.351370   
+total_phenols                         -0.321113       1.000000    0.864564   
+flavanoids                            -0.351370       0.864564    1.000000   
+hue                                   -0.273955       0.433681    0.543479   
+od280/od315_of_diluted_wines          -0.276769       0.699949    0.787194   
+proline                               -0.440597       0.498115    0.494193   
+target                                 0.517859      -0.719163   -0.847498   
+
+                                   hue  od280/od315_of_diluted_wines  \
+alcalinity_of_ash            -0.273955                     -0.276769   
+total_phenols                 0.433681                      0.699949   
+flavanoids                    0.543479                      0.787194   
+hue                           1.000000                      0.565468   
+od280/od315_of_diluted_wines  0.565468                      1.000000   
+proline                       0.236183                      0.312761   
+target                       -0.617369                     -0.788230   
+
+                               proline    target  
+alcalinity_of_ash            -0.440597  0.517859  
+total_phenols                 0.498115 -0.719163  
+flavanoids                    0.494193 -0.847498  
+hue                           0.236183 -0.617369  
+od280/od315_of_diluted_wines  0.312761 -0.788230  
+proline                       1.000000 -0.633717  
+target                       -0.633717  1.000000  
+2026-07-17 11:34:31 | INFO | M03 | === RUN START ===
+2026-07-17 11:34:31 | INFO | M03 | project=M03
+2026-07-17 11:34:31 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 11:34:31 | INFO | M03 | python=3.14.0
+2026-07-17 11:34:31 | INFO | M03 | os=Windows 11
+2026-07-17 11:34:31 | INFO | M03 | shell=powershell
+2026-07-17 11:34:31 | INFO | M03 | cwd=notebooks
+2026-07-17 11:34:31 | INFO | M03 | github_actions=False
+2026-07-17 11:34:31 | INFO | M03 | Confirming installation:
+2026-07-17 11:34:31 | INFO | M03 |   python:       3.14.0
+2026-07-17 11:34:31 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 11:34:31 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 11:34:31 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 11:34:31 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 11:34:31 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 11:34:32 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 11:34:32 | INFO | M03 | Missing values: 0
+2026-07-17 11:34:32 | INFO | M03 | Correlation range for target variable: -0.8474975401417585 to 1.0
+2026-07-17 11:34:32 | INFO | M03 | Strong correlations with target:
+                               alcohol  malic_acid       ash  \
+alcalinity_of_ash            -0.310235    0.288500  0.443367   
+total_phenols                 0.289101   -0.335167  0.128980   
+flavanoids                    0.236815   -0.411007  0.115077   
+hue                          -0.071747   -0.561296 -0.074667   
+od280/od315_of_diluted_wines  0.072343   -0.368710  0.003911   
+proline                       0.643720   -0.192011  0.223626   
+target                       -0.328222    0.437776 -0.049643   
+
+                              alcalinity_of_ash  magnesium  total_phenols  \
+alcalinity_of_ash                      1.000000  -0.083333      -0.321113   
+total_phenols                         -0.321113   0.214401       1.000000   
+flavanoids                            -0.351370   0.195784       0.864564   
+hue                                   -0.273955   0.055398       0.433681   
+od280/od315_of_diluted_wines          -0.276769   0.066004       0.699949   
+proline                               -0.440597   0.393351       0.498115   
+target                                 0.517859  -0.209179      -0.719163   
+
+                              flavanoids  nonflavanoid_phenols  \
+alcalinity_of_ash              -0.351370              0.361922   
+total_phenols                   0.864564             -0.449935   
+flavanoids                      1.000000             -0.537900   
+hue                             0.543479             -0.262640   
+od280/od315_of_diluted_wines    0.787194             -0.503270   
+proline                         0.494193             -0.311385   
+target                         -0.847498              0.489109   
+
+                              proanthocyanins  color_intensity       hue  \
+alcalinity_of_ash                   -0.197327         0.018732 -0.273955   
+total_phenols                        0.612413        -0.055136  0.433681   
+flavanoids                           0.652692        -0.172379  0.543479   
+hue                                  0.295544        -0.521813  1.000000   
+od280/od315_of_diluted_wines         0.519067        -0.428815  0.565468   
+proline                              0.330417         0.316100  0.236183   
+target                              -0.499130         0.265668 -0.617369   
+
+                              od280/od315_of_diluted_wines   proline    target  
+alcalinity_of_ash                                -0.276769 -0.440597  0.517859  
+total_phenols                                     0.699949  0.498115 -0.719163  
+flavanoids                                        0.787194  0.494193 -0.847498  
+hue                                               0.565468  0.236183 -0.617369  
+od280/od315_of_diluted_wines                      1.000000  0.312761 -0.788230  
+proline                                           0.312761  1.000000 -0.633717  
+target                                           -0.788230 -0.633717  1.000000  
+2026-07-17 11:35:56 | INFO | M03 | === RUN START ===
+2026-07-17 11:35:56 | INFO | M03 | project=M03
+2026-07-17 11:35:56 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 11:35:56 | INFO | M03 | python=3.14.0
+2026-07-17 11:35:56 | INFO | M03 | os=Windows 11
+2026-07-17 11:35:56 | INFO | M03 | shell=powershell
+2026-07-17 11:35:56 | INFO | M03 | cwd=notebooks
+2026-07-17 11:35:56 | INFO | M03 | github_actions=False
+2026-07-17 11:35:56 | INFO | M03 | Confirming installation:
+2026-07-17 11:35:56 | INFO | M03 |   python:       3.14.0
+2026-07-17 11:35:56 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 11:35:56 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 11:35:56 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 11:35:56 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 11:35:56 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 11:35:56 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 11:35:56 | INFO | M03 | Missing values: 0
+2026-07-17 11:35:56 | INFO | M03 | Correlation range for target variable: -0.8474975401417585 to 1.0
+2026-07-17 11:35:56 | INFO | M03 | Strong correlations with target:
+                               alcohol  malic_acid       ash  \
+alcalinity_of_ash            -0.310235    0.288500  0.443367   
+total_phenols                 0.289101   -0.335167  0.128980   
+flavanoids                    0.236815   -0.411007  0.115077   
+hue                          -0.071747   -0.561296 -0.074667   
+od280/od315_of_diluted_wines  0.072343   -0.368710  0.003911   
+proline                       0.643720   -0.192011  0.223626   
+target                       -0.328222    0.437776 -0.049643   
+
+                              alcalinity_of_ash  magnesium  total_phenols  \
+alcalinity_of_ash                      1.000000  -0.083333      -0.321113   
+total_phenols                         -0.321113   0.214401       1.000000   
+flavanoids                            -0.351370   0.195784       0.864564   
+hue                                   -0.273955   0.055398       0.433681   
+od280/od315_of_diluted_wines          -0.276769   0.066004       0.699949   
+proline                               -0.440597   0.393351       0.498115   
+target                                 0.517859  -0.209179      -0.719163   
+
+                              flavanoids  nonflavanoid_phenols  \
+alcalinity_of_ash              -0.351370              0.361922   
+total_phenols                   0.864564             -0.449935   
+flavanoids                      1.000000             -0.537900   
+hue                             0.543479             -0.262640   
+od280/od315_of_diluted_wines    0.787194             -0.503270   
+proline                         0.494193             -0.311385   
+target                         -0.847498              0.489109   
+
+                              proanthocyanins  color_intensity       hue  \
+alcalinity_of_ash                   -0.197327         0.018732 -0.273955   
+total_phenols                        0.612413        -0.055136  0.433681   
+flavanoids                           0.652692        -0.172379  0.543479   
+hue                                  0.295544        -0.521813  1.000000   
+od280/od315_of_diluted_wines         0.519067        -0.428815  0.565468   
+proline                              0.330417         0.316100  0.236183   
+target                              -0.499130         0.265668 -0.617369   
+
+                              od280/od315_of_diluted_wines   proline    target  
+alcalinity_of_ash                                -0.276769 -0.440597  0.517859  
+total_phenols                                     0.699949  0.498115 -0.719163  
+flavanoids                                        0.787194  0.494193 -0.847498  
+hue                                               0.565468  0.236183 -0.617369  
+od280/od315_of_diluted_wines                      1.000000  0.312761 -0.788230  
+proline                                           0.312761  1.000000 -0.633717  
+target                                           -0.788230 -0.633717  1.000000  
+2026-07-17 11:37:06 | INFO | M03 | === RUN START ===
+2026-07-17 11:37:06 | INFO | M03 | project=M03
+2026-07-17 11:37:06 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 11:37:06 | INFO | M03 | python=3.14.0
+2026-07-17 11:37:06 | INFO | M03 | os=Windows 11
+2026-07-17 11:37:06 | INFO | M03 | shell=powershell
+2026-07-17 11:37:06 | INFO | M03 | cwd=notebooks
+2026-07-17 11:37:06 | INFO | M03 | github_actions=False
+2026-07-17 11:37:06 | INFO | M03 | Confirming installation:
+2026-07-17 11:37:06 | INFO | M03 |   python:       3.14.0
+2026-07-17 11:37:06 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 11:37:06 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 11:37:06 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 11:37:06 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 11:37:06 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 11:37:07 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 11:37:07 | INFO | M03 | Missing values: 0
+2026-07-17 11:37:07 | INFO | M03 | Correlation range for target variable: -0.8474975401417585 to 1.0
+2026-07-17 11:37:07 | INFO | M03 | Strong correlations with target:
+                                target
+target                        1.000000
+alcalinity_of_ash             0.517859
+hue                          -0.617369
+proline                      -0.633717
+total_phenols                -0.719163
+od280/od315_of_diluted_wines -0.788230
+flavanoids                   -0.847498
+2026-07-17 11:38:06 | INFO | M03 | === RUN START ===
+2026-07-17 11:38:06 | INFO | M03 | project=M03
+2026-07-17 11:38:06 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 11:38:06 | INFO | M03 | python=3.14.0
+2026-07-17 11:38:06 | INFO | M03 | os=Windows 11
+2026-07-17 11:38:06 | INFO | M03 | shell=powershell
+2026-07-17 11:38:06 | INFO | M03 | cwd=notebooks
+2026-07-17 11:38:06 | INFO | M03 | github_actions=False
+2026-07-17 11:38:06 | INFO | M03 | Confirming installation:
+2026-07-17 11:38:06 | INFO | M03 |   python:       3.14.0
+2026-07-17 11:38:06 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 11:38:06 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 11:38:06 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 11:38:06 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 11:38:06 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 11:38:06 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 11:38:06 | INFO | M03 | Missing values: 0
+2026-07-17 11:38:06 | INFO | M03 | Correlation range for target variable: -0.8474975401417585 to 1.0
+2026-07-17 11:38:06 | INFO | M03 | Strong correlations with target:
+                               alcohol  malic_acid       ash  \
+alcalinity_of_ash            -0.310235    0.288500  0.443367   
+total_phenols                 0.289101   -0.335167  0.128980   
+flavanoids                    0.236815   -0.411007  0.115077   
+hue                          -0.071747   -0.561296 -0.074667   
+od280/od315_of_diluted_wines  0.072343   -0.368710  0.003911   
+proline                       0.643720   -0.192011  0.223626   
+target                       -0.328222    0.437776 -0.049643   
+
+                              alcalinity_of_ash  magnesium  total_phenols  \
+alcalinity_of_ash                      1.000000  -0.083333      -0.321113   
+total_phenols                         -0.321113   0.214401       1.000000   
+flavanoids                            -0.351370   0.195784       0.864564   
+hue                                   -0.273955   0.055398       0.433681   
+od280/od315_of_diluted_wines          -0.276769   0.066004       0.699949   
+proline                               -0.440597   0.393351       0.498115   
+target                                 0.517859  -0.209179      -0.719163   
+
+                              flavanoids  nonflavanoid_phenols  \
+alcalinity_of_ash              -0.351370              0.361922   
+total_phenols                   0.864564             -0.449935   
+flavanoids                      1.000000             -0.537900   
+hue                             0.543479             -0.262640   
+od280/od315_of_diluted_wines    0.787194             -0.503270   
+proline                         0.494193             -0.311385   
+target                         -0.847498              0.489109   
+
+                              proanthocyanins  color_intensity       hue  \
+alcalinity_of_ash                   -0.197327         0.018732 -0.273955   
+total_phenols                        0.612413        -0.055136  0.433681   
+flavanoids                           0.652692        -0.172379  0.543479   
+hue                                  0.295544        -0.521813  1.000000   
+od280/od315_of_diluted_wines         0.519067        -0.428815  0.565468   
+proline                              0.330417         0.316100  0.236183   
+target                              -0.499130         0.265668 -0.617369   
+
+                              od280/od315_of_diluted_wines   proline    target  
+alcalinity_of_ash                                -0.276769 -0.440597  0.517859  
+total_phenols                                     0.699949  0.498115 -0.719163  
+flavanoids                                        0.787194  0.494193 -0.847498  
+hue                                               0.565468  0.236183 -0.617369  
+od280/od315_of_diluted_wines                      1.000000  0.312761 -0.788230  
+proline                                           0.312761  1.000000 -0.633717  
+target                                           -0.788230 -0.633717  1.000000  
+2026-07-17 11:39:59 | INFO | M03 | === RUN START ===
+2026-07-17 11:39:59 | INFO | M03 | project=M03
+2026-07-17 11:39:59 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 11:39:59 | INFO | M03 | python=3.14.0
+2026-07-17 11:39:59 | INFO | M03 | os=Windows 11
+2026-07-17 11:39:59 | INFO | M03 | shell=powershell
+2026-07-17 11:39:59 | INFO | M03 | cwd=notebooks
+2026-07-17 11:39:59 | INFO | M03 | github_actions=False
+2026-07-17 11:39:59 | INFO | M03 | Confirming installation:
+2026-07-17 11:39:59 | INFO | M03 |   python:       3.14.0
+2026-07-17 11:39:59 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 11:40:00 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 11:40:00 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 11:40:00 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 11:40:00 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 11:40:00 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 11:40:00 | INFO | M03 | Missing values: 0
+2026-07-17 11:40:00 | INFO | M03 | Correlation range for target variable: -0.8474975401417585 to 1.0
+2026-07-17 11:40:00 | INFO | M03 | Strong correlations with target:
+['alcalinity_of_ash', 'total_phenols', 'flavanoids', 'hue', 'od280/od315_of_diluted_wines', 'proline', 'target']
+2026-07-17 11:40:41 | INFO | M03 | === RUN START ===
+2026-07-17 11:40:41 | INFO | M03 | project=M03
+2026-07-17 11:40:41 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 11:40:41 | INFO | M03 | python=3.14.0
+2026-07-17 11:40:41 | INFO | M03 | os=Windows 11
+2026-07-17 11:40:41 | INFO | M03 | shell=powershell
+2026-07-17 11:40:41 | INFO | M03 | cwd=notebooks
+2026-07-17 11:40:41 | INFO | M03 | github_actions=False
+2026-07-17 11:40:41 | INFO | M03 | Confirming installation:
+2026-07-17 11:40:41 | INFO | M03 |   python:       3.14.0
+2026-07-17 11:40:41 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 11:40:41 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 11:40:41 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 11:40:41 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 11:40:41 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 11:40:41 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 11:40:41 | INFO | M03 | Missing values: 0
+2026-07-17 11:40:41 | INFO | M03 | Correlation range for target variable: -0.8474975401417585 to 1.0
+2026-07-17 11:40:41 | INFO | M03 | Strong correlations with target:
+['alcalinity_of_ash', 'total_phenols', 'flavanoids', 'hue', 'od280/od315_of_diluted_wines', 'proline', 'target']
+2026-07-17 11:45:43 | INFO | M03 | === RUN START ===
+2026-07-17 11:45:43 | INFO | M03 | project=M03
+2026-07-17 11:45:43 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 11:45:43 | INFO | M03 | python=3.14.0
+2026-07-17 11:45:43 | INFO | M03 | os=Windows 11
+2026-07-17 11:45:43 | INFO | M03 | shell=powershell
+2026-07-17 11:45:43 | INFO | M03 | cwd=notebooks
+2026-07-17 11:45:43 | INFO | M03 | github_actions=False
+2026-07-17 11:45:43 | INFO | M03 | Confirming installation:
+2026-07-17 11:45:43 | INFO | M03 |   python:       3.14.0
+2026-07-17 11:45:43 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 11:45:43 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 11:45:43 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 11:45:43 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 11:45:43 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 11:45:44 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 11:45:44 | INFO | M03 | Missing values: 0
+2026-07-17 11:45:44 | INFO | M03 | Correlation range for target variable: -0.8474975401417585 to 1.0
+2026-07-17 11:45:44 | INFO | M03 | Strong correlations with target:
+['alcalinity_of_ash', 'total_phenols', 'flavanoids', 'hue', 'od280/od315_of_diluted_wines', 'proline', 'target']
+2026-07-17 11:45:51 | INFO | M03 | Train instances: 142
+2026-07-17 11:45:51 | INFO | M03 | Test instances: 36
+2026-07-17 11:45:51 | INFO | M03 | Fitting DecisionTreeClassifier(max_depth=3)
+2026-07-17 11:45:51 | INFO | M03 | Test accuracy: 0.944
+2026-07-17 11:45:51 | INFO | M03 | Per-class precision / recall / F1:
+2026-07-17 11:45:51 | DEBUG | M03 | 
+              precision    recall  f1-score   support
+
+           0       1.00      0.92      0.96        12
+           1       0.88      1.00      0.93        14
+           2       1.00      0.90      0.95        10
+
+    accuracy                           0.94        36
+   macro avg       0.96      0.94      0.95        36
+weighted avg       0.95      0.94      0.94        36
+
+2026-07-17 11:45:51 | INFO | M03 | Showing confusion matrix (rows = actual, cols = predicted)
+2026-07-17 11:45:52 | DEBUG | M03 |   depth= 1  train=0.662  test=0.583
+2026-07-17 11:45:52 | DEBUG | M03 |   depth= 2  train=0.937  test=0.861
+2026-07-17 11:45:52 | DEBUG | M03 |   depth= 3  train=0.993  test=0.944
+2026-07-17 11:45:52 | DEBUG | M03 |   depth= 4  train=1.000  test=0.944
+2026-07-17 11:45:52 | DEBUG | M03 |   depth= 5  train=1.000  test=0.944
+2026-07-17 11:45:52 | DEBUG | M03 |   depth= 6  train=1.000  test=0.944
+2026-07-17 11:45:52 | DEBUG | M03 |   depth= 7  train=1.000  test=0.944
+2026-07-17 11:45:52 | DEBUG | M03 |   depth= 8  train=1.000  test=0.944
+2026-07-17 11:45:52 | DEBUG | M03 |   depth= 9  train=1.000  test=0.944
+2026-07-17 11:45:52 | DEBUG | M03 |   depth=10  train=1.000  test=0.944
+2026-07-17 11:45:52 | DEBUG | M03 |   depth=11  train=1.000  test=0.944
+2026-07-17 11:45:52 | DEBUG | M03 |   depth=12  train=1.000  test=0.944
+2026-07-17 11:53:08 | INFO | M03 | === RUN START ===
+2026-07-17 11:53:08 | INFO | M03 | project=M03
+2026-07-17 11:53:08 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 11:53:08 | INFO | M03 | python=3.14.0
+2026-07-17 11:53:08 | INFO | M03 | os=Windows 11
+2026-07-17 11:53:08 | INFO | M03 | shell=powershell
+2026-07-17 11:53:08 | INFO | M03 | cwd=notebooks
+2026-07-17 11:53:08 | INFO | M03 | github_actions=False
+2026-07-17 11:53:08 | INFO | M03 | Confirming installation:
+2026-07-17 11:53:08 | INFO | M03 |   python:       3.14.0
+2026-07-17 11:53:08 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 11:53:08 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 11:53:08 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 11:53:08 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 11:53:08 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 11:53:08 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 11:53:08 | INFO | M03 | Missing values: 0
+2026-07-17 11:53:08 | INFO | M03 | Correlation range for target variable: -0.8474975401417585 to 1.0
+2026-07-17 11:53:08 | INFO | M03 | Strong correlations with target:
+['alcalinity_of_ash', 'total_phenols', 'flavanoids', 'hue', 'od280/od315_of_diluted_wines', 'proline', 'target']
+2026-07-17 11:53:16 | INFO | M03 | Train instances: 142
+2026-07-17 11:53:16 | INFO | M03 | Test instances: 36
+2026-07-17 11:53:16 | INFO | M03 | Fitting DecisionTreeClassifier(max_depth=3)
+2026-07-17 11:53:16 | INFO | M03 | Test accuracy: 0.944
+2026-07-17 11:53:16 | INFO | M03 | Per-class precision / recall / F1:
+2026-07-17 11:53:16 | DEBUG | M03 | 
+              precision    recall  f1-score   support
+
+           0       1.00      0.92      0.96        12
+           1       0.88      1.00      0.93        14
+           2       1.00      0.90      0.95        10
+
+    accuracy                           0.94        36
+   macro avg       0.96      0.94      0.95        36
+weighted avg       0.95      0.94      0.94        36
+
+2026-07-17 11:53:16 | INFO | M03 | Showing confusion matrix (rows = actual, cols = predicted)
+2026-07-17 11:53:17 | DEBUG | M03 |   depth= 1  train=0.662  test=0.583
+2026-07-17 11:53:17 | DEBUG | M03 |   depth= 2  train=0.937  test=0.861
+2026-07-17 11:53:17 | DEBUG | M03 |   depth= 3  train=0.993  test=0.944
+2026-07-17 11:53:17 | DEBUG | M03 |   depth= 4  train=1.000  test=0.944
+2026-07-17 11:53:17 | DEBUG | M03 |   depth= 5  train=1.000  test=0.944
+2026-07-17 11:53:17 | DEBUG | M03 |   depth= 6  train=1.000  test=0.944
+2026-07-17 11:53:17 | DEBUG | M03 |   depth= 7  train=1.000  test=0.944
+2026-07-17 11:53:17 | DEBUG | M03 |   depth= 8  train=1.000  test=0.944
+2026-07-17 11:53:17 | DEBUG | M03 |   depth= 9  train=1.000  test=0.944
+2026-07-17 11:53:17 | DEBUG | M03 |   depth=10  train=1.000  test=0.944
+2026-07-17 11:53:17 | DEBUG | M03 |   depth=11  train=1.000  test=0.944
+2026-07-17 11:53:17 | DEBUG | M03 |   depth=12  train=1.000  test=0.944
+2026-07-17 11:54:56 | INFO | M03 | === RUN START ===
+2026-07-17 11:54:56 | INFO | M03 | project=M03
+2026-07-17 11:54:56 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 11:54:56 | INFO | M03 | python=3.14.0
+2026-07-17 11:54:56 | INFO | M03 | os=Windows 11
+2026-07-17 11:54:56 | INFO | M03 | shell=powershell
+2026-07-17 11:54:56 | INFO | M03 | cwd=notebooks
+2026-07-17 11:54:56 | INFO | M03 | github_actions=False
+2026-07-17 11:54:56 | INFO | M03 | Confirming installation:
+2026-07-17 11:54:56 | INFO | M03 |   python:       3.14.0
+2026-07-17 11:54:56 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 11:54:56 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 11:54:56 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 11:54:56 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 11:54:56 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 11:54:56 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 11:54:56 | INFO | M03 | Missing values: 0
+2026-07-17 11:54:56 | INFO | M03 | Correlation range for target variable: -0.8474975401417585 to 1.0
+2026-07-17 11:54:56 | INFO | M03 | Strong correlations with target:
+['alcalinity_of_ash', 'total_phenols', 'flavanoids', 'hue', 'od280/od315_of_diluted_wines', 'proline', 'target']
+2026-07-17 11:55:03 | INFO | M03 | Train instances: 142
+2026-07-17 11:55:03 | INFO | M03 | Test instances: 36
+2026-07-17 11:55:03 | INFO | M03 | Fitting DecisionTreeClassifier(max_depth=3)
+2026-07-17 12:13:26 | INFO | M03 | === RUN START ===
+2026-07-17 12:13:26 | INFO | M03 | project=M03
+2026-07-17 12:13:26 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 12:13:26 | INFO | M03 | python=3.14.0
+2026-07-17 12:13:26 | INFO | M03 | os=Windows 11
+2026-07-17 12:13:26 | INFO | M03 | shell=powershell
+2026-07-17 12:13:26 | INFO | M03 | cwd=notebooks
+2026-07-17 12:13:26 | INFO | M03 | github_actions=False
+2026-07-17 12:13:26 | INFO | M03 | Confirming installation:
+2026-07-17 12:13:26 | INFO | M03 |   python:       3.14.0
+2026-07-17 12:13:26 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 12:13:26 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 12:13:26 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 12:13:26 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 12:13:26 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 12:13:26 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 12:13:26 | INFO | M03 | Missing values: 0
+2026-07-17 12:13:26 | INFO | M03 | Correlation range for target variable: -0.8474975401417585 to 1.0
+2026-07-17 12:13:26 | INFO | M03 | Strong correlations with target:
+['alcalinity_of_ash', 'total_phenols', 'flavanoids', 'hue', 'od280/od315_of_diluted_wines', 'proline', 'target']
+2026-07-17 12:13:34 | INFO | M03 | Train instances: 142
+2026-07-17 12:13:34 | INFO | M03 | Test instances: 36
+2026-07-17 12:13:34 | INFO | M03 | Fitting DecisionTreeClassifier(max_depth=3)
+2026-07-17 12:14:16 | INFO | M03 | === RUN START ===
+2026-07-17 12:14:16 | INFO | M03 | project=M03
+2026-07-17 12:14:16 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 12:14:16 | INFO | M03 | python=3.14.0
+2026-07-17 12:14:16 | INFO | M03 | os=Windows 11
+2026-07-17 12:14:16 | INFO | M03 | shell=powershell
+2026-07-17 12:14:16 | INFO | M03 | cwd=notebooks
+2026-07-17 12:14:16 | INFO | M03 | github_actions=False
+2026-07-17 12:14:16 | INFO | M03 | Confirming installation:
+2026-07-17 12:14:16 | INFO | M03 |   python:       3.14.0
+2026-07-17 12:14:16 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 12:14:16 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 12:14:16 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 12:14:16 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 12:14:16 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 12:14:16 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 12:14:16 | INFO | M03 | Missing values: 0
+2026-07-17 12:14:16 | INFO | M03 | Correlation range for target variable: -0.8474975401417585 to 1.0
+2026-07-17 12:14:16 | INFO | M03 | Strong correlations with target:
+['alcalinity_of_ash', 'total_phenols', 'flavanoids', 'hue', 'od280/od315_of_diluted_wines', 'proline', 'target']
+2026-07-17 12:14:23 | INFO | M03 | Train instances: 142
+2026-07-17 12:14:23 | INFO | M03 | Test instances: 36
+2026-07-17 12:14:23 | INFO | M03 | Fitting DecisionTreeClassifier(max_depth=3)
+2026-07-17 12:15:05 | INFO | M03 | === RUN START ===
+2026-07-17 12:15:05 | INFO | M03 | project=M03
+2026-07-17 12:15:05 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 12:15:05 | INFO | M03 | python=3.14.0
+2026-07-17 12:15:05 | INFO | M03 | os=Windows 11
+2026-07-17 12:15:05 | INFO | M03 | shell=powershell
+2026-07-17 12:15:06 | INFO | M03 | cwd=notebooks
+2026-07-17 12:15:06 | INFO | M03 | github_actions=False
+2026-07-17 12:15:06 | INFO | M03 | Confirming installation:
+2026-07-17 12:15:06 | INFO | M03 |   python:       3.14.0
+2026-07-17 12:15:06 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 12:15:06 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 12:15:06 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 12:15:06 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 12:15:06 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 12:15:06 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 12:15:06 | INFO | M03 | Missing values: 0
+2026-07-17 12:15:06 | INFO | M03 | Correlation range for target variable: -0.8474975401417585 to 1.0
+2026-07-17 12:15:06 | INFO | M03 | Strong correlations with target:
+['alcalinity_of_ash', 'total_phenols', 'flavanoids', 'hue', 'od280/od315_of_diluted_wines', 'proline', 'target']
+2026-07-17 12:15:14 | INFO | M03 | Train instances: 142
+2026-07-17 12:15:14 | INFO | M03 | Test instances: 36
+2026-07-17 12:15:14 | INFO | M03 | Fitting DecisionTreeClassifier(max_depth=3)
+2026-07-17 12:19:07 | INFO | M03 | === RUN START ===
+2026-07-17 12:19:07 | INFO | M03 | project=M03
+2026-07-17 12:19:07 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 12:19:07 | INFO | M03 | python=3.14.0
+2026-07-17 12:19:07 | INFO | M03 | os=Windows 11
+2026-07-17 12:19:07 | INFO | M03 | shell=powershell
+2026-07-17 12:19:07 | INFO | M03 | cwd=notebooks
+2026-07-17 12:19:07 | INFO | M03 | github_actions=False
+2026-07-17 12:19:07 | INFO | M03 | Confirming installation:
+2026-07-17 12:19:07 | INFO | M03 |   python:       3.14.0
+2026-07-17 12:19:07 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 12:19:07 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 12:19:07 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 12:19:07 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 12:19:07 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 12:19:07 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 12:19:07 | INFO | M03 | Missing values: 0
+2026-07-17 12:19:07 | INFO | M03 | Correlation range for target variable: -0.8474975401417585 to 1.0
+2026-07-17 12:19:07 | INFO | M03 | Strong correlations with target:
+['alcalinity_of_ash', 'total_phenols', 'flavanoids', 'hue', 'od280/od315_of_diluted_wines', 'proline', 'target']
+2026-07-17 12:19:15 | INFO | M03 | Train instances: 142
+2026-07-17 12:19:15 | INFO | M03 | Test instances: 36
+2026-07-17 12:19:15 | INFO | M03 | Fitting DecisionTreeClassifier(max_depth=3)
+2026-07-17 12:19:15 | INFO | M03 | Test accuracy: 0.944
+2026-07-17 12:19:15 | INFO | M03 | Per-class precision / recall / F1:
+2026-07-17 12:19:15 | DEBUG | M03 | 
+              precision    recall  f1-score   support
+
+           0       1.00      0.92      0.96        12
+           1       0.88      1.00      0.93        14
+           2       1.00      0.90      0.95        10
+
+    accuracy                           0.94        36
+   macro avg       0.96      0.94      0.95        36
+weighted avg       0.95      0.94      0.94        36
+
+2026-07-17 12:19:15 | INFO | M03 | Showing confusion matrix (rows = actual, cols = predicted)
+2026-07-17 12:19:15 | DEBUG | M03 |   depth= 1  train=0.662  test=0.583
+2026-07-17 12:19:15 | DEBUG | M03 |   depth= 2  train=0.937  test=0.861
+2026-07-17 12:19:15 | DEBUG | M03 |   depth= 3  train=0.993  test=0.944
+2026-07-17 12:19:16 | DEBUG | M03 |   depth= 4  train=1.000  test=0.944
+2026-07-17 12:19:16 | DEBUG | M03 |   depth= 5  train=1.000  test=0.944
+2026-07-17 12:19:16 | DEBUG | M03 |   depth= 6  train=1.000  test=0.944
+2026-07-17 12:19:16 | DEBUG | M03 |   depth= 7  train=1.000  test=0.944
+2026-07-17 12:19:16 | DEBUG | M03 |   depth= 8  train=1.000  test=0.944
+2026-07-17 12:19:16 | DEBUG | M03 |   depth= 9  train=1.000  test=0.944
+2026-07-17 12:19:16 | DEBUG | M03 |   depth=10  train=1.000  test=0.944
+2026-07-17 12:19:16 | DEBUG | M03 |   depth=11  train=1.000  test=0.944
+2026-07-17 12:19:16 | DEBUG | M03 |   depth=12  train=1.000  test=0.944
+2026-07-17 12:19:42 | INFO | M03 | === RUN START ===
+2026-07-17 12:19:42 | INFO | M03 | project=M03
+2026-07-17 12:19:42 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 12:19:42 | INFO | M03 | python=3.14.0
+2026-07-17 12:19:42 | INFO | M03 | os=Windows 11
+2026-07-17 12:19:42 | INFO | M03 | shell=powershell
+2026-07-17 12:19:42 | INFO | M03 | cwd=notebooks
+2026-07-17 12:19:42 | INFO | M03 | github_actions=False
+2026-07-17 12:19:42 | INFO | M03 | Confirming installation:
+2026-07-17 12:19:42 | INFO | M03 |   python:       3.14.0
+2026-07-17 12:19:42 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 12:19:42 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 12:19:42 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 12:19:42 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 12:19:42 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 12:19:42 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 12:19:42 | INFO | M03 | Missing values: 0
+2026-07-17 12:19:42 | INFO | M03 | Correlation range for target variable: -0.8474975401417585 to 1.0
+2026-07-17 12:19:42 | INFO | M03 | Strong correlations with target:
+['alcalinity_of_ash', 'total_phenols', 'flavanoids', 'hue', 'od280/od315_of_diluted_wines', 'proline', 'target']
+2026-07-17 12:19:50 | INFO | M03 | Train instances: 142
+2026-07-17 12:19:50 | INFO | M03 | Test instances: 36
+2026-07-17 12:19:50 | INFO | M03 | Fitting DecisionTreeClassifier(max_depth=3)
+2026-07-17 12:19:50 | INFO | M03 | Test accuracy: 0.944
+2026-07-17 12:19:50 | INFO | M03 | Per-class precision / recall / F1:
+2026-07-17 12:19:50 | DEBUG | M03 | 
+              precision    recall  f1-score   support
+
+           0       1.00      0.92      0.96        12
+           1       0.88      1.00      0.93        14
+           2       1.00      0.90      0.95        10
+
+    accuracy                           0.94        36
+   macro avg       0.96      0.94      0.95        36
+weighted avg       0.95      0.94      0.94        36
+
+2026-07-17 12:19:50 | INFO | M03 | Showing confusion matrix (rows = actual, cols = predicted)
+2026-07-17 12:19:50 | DEBUG | M03 |   depth= 1  train=0.662  test=0.583
+2026-07-17 12:19:50 | DEBUG | M03 |   depth= 2  train=0.937  test=0.861
+2026-07-17 12:19:50 | DEBUG | M03 |   depth= 3  train=0.993  test=0.944
+2026-07-17 12:19:50 | DEBUG | M03 |   depth= 4  train=1.000  test=0.944
+2026-07-17 12:19:50 | DEBUG | M03 |   depth= 5  train=1.000  test=0.944
+2026-07-17 12:19:50 | DEBUG | M03 |   depth= 6  train=1.000  test=0.944
+2026-07-17 12:19:50 | DEBUG | M03 |   depth= 7  train=1.000  test=0.944
+2026-07-17 12:19:50 | DEBUG | M03 |   depth= 8  train=1.000  test=0.944
+2026-07-17 12:19:50 | DEBUG | M03 |   depth= 9  train=1.000  test=0.944
+2026-07-17 12:19:50 | DEBUG | M03 |   depth=10  train=1.000  test=0.944
+2026-07-17 12:19:50 | DEBUG | M03 |   depth=11  train=1.000  test=0.944
+2026-07-17 12:19:51 | DEBUG | M03 |   depth=12  train=1.000  test=0.944
+2026-07-17 12:25:39 | INFO | M03 | === RUN START ===
+2026-07-17 12:25:39 | INFO | M03 | project=M03
+2026-07-17 12:25:39 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 12:25:39 | INFO | M03 | python=3.14.0
+2026-07-17 12:25:39 | INFO | M03 | os=Windows 11
+2026-07-17 12:25:39 | INFO | M03 | shell=powershell
+2026-07-17 12:25:39 | INFO | M03 | cwd=notebooks
+2026-07-17 12:25:39 | INFO | M03 | github_actions=False
+2026-07-17 12:25:39 | INFO | M03 | Confirming installation:
+2026-07-17 12:25:39 | INFO | M03 |   python:       3.14.0
+2026-07-17 12:25:39 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 12:25:39 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 12:25:39 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 12:25:39 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 12:25:39 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 12:25:39 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 12:25:39 | INFO | M03 | Missing values: 0
+2026-07-17 12:25:39 | INFO | M03 | Correlation range for target variable: -0.8474975401417585 to 1.0
+2026-07-17 12:25:39 | INFO | M03 | Strong correlations with target:
+['alcalinity_of_ash', 'total_phenols', 'flavanoids', 'hue', 'od280/od315_of_diluted_wines', 'proline', 'target']
+2026-07-17 12:25:47 | INFO | M03 | Train instances: 142
+2026-07-17 12:25:47 | INFO | M03 | Test instances: 36
+2026-07-17 12:25:47 | INFO | M03 | Fitting DecisionTreeClassifier(max_depth=3)
+2026-07-17 12:25:47 | INFO | M03 | Test accuracy: 0.944
+2026-07-17 12:25:47 | INFO | M03 | Per-class precision / recall / F1:
+2026-07-17 12:25:47 | DEBUG | M03 | 
+              precision    recall  f1-score   support
+
+           0       1.00      0.92      0.96        12
+           1       0.88      1.00      0.93        14
+           2       1.00      0.90      0.95        10
+
+    accuracy                           0.94        36
+   macro avg       0.96      0.94      0.95        36
+weighted avg       0.95      0.94      0.94        36
+
+2026-07-17 12:25:47 | INFO | M03 | Showing confusion matrix (rows = actual, cols = predicted)
+2026-07-17 12:25:47 | DEBUG | M03 |   depth= 1  train=0.662  test=0.583
+2026-07-17 12:25:47 | DEBUG | M03 |   depth= 2  train=0.937  test=0.861
+2026-07-17 12:25:47 | DEBUG | M03 |   depth= 3  train=0.993  test=0.944
+2026-07-17 12:25:47 | DEBUG | M03 |   depth= 4  train=1.000  test=0.944
+2026-07-17 12:25:47 | DEBUG | M03 |   depth= 5  train=1.000  test=0.944
+2026-07-17 12:25:47 | DEBUG | M03 |   depth= 6  train=1.000  test=0.944
+2026-07-17 12:25:47 | DEBUG | M03 |   depth= 7  train=1.000  test=0.944
+2026-07-17 12:25:47 | DEBUG | M03 |   depth= 8  train=1.000  test=0.944
+2026-07-17 12:25:47 | DEBUG | M03 |   depth= 9  train=1.000  test=0.944
+2026-07-17 12:25:47 | DEBUG | M03 |   depth=10  train=1.000  test=0.944
+2026-07-17 12:25:47 | DEBUG | M03 |   depth=11  train=1.000  test=0.944
+2026-07-17 12:25:47 | DEBUG | M03 |   depth=12  train=1.000  test=0.944
+2026-07-17 12:28:33 | INFO | M03 | === RUN START ===
+2026-07-17 12:28:33 | INFO | M03 | project=M03
+2026-07-17 12:28:33 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 12:28:33 | INFO | M03 | python=3.14.0
+2026-07-17 12:28:33 | INFO | M03 | os=Windows 11
+2026-07-17 12:28:33 | INFO | M03 | shell=powershell
+2026-07-17 12:28:33 | INFO | M03 | cwd=notebooks
+2026-07-17 12:28:33 | INFO | M03 | github_actions=False
+2026-07-17 12:28:33 | INFO | M03 | Confirming installation:
+2026-07-17 12:28:33 | INFO | M03 |   python:       3.14.0
+2026-07-17 12:28:33 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 12:28:33 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 12:28:33 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 12:28:33 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 12:28:33 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 12:28:33 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 12:28:33 | INFO | M03 | Missing values: 0
+2026-07-17 12:28:33 | INFO | M03 | Correlation range for target variable: -0.8474975401417585 to 1.0
+2026-07-17 12:28:33 | INFO | M03 | Strong correlations with target:
+['alcalinity_of_ash', 'total_phenols', 'flavanoids', 'hue', 'od280/od315_of_diluted_wines', 'proline', 'target']
+2026-07-17 12:28:40 | INFO | M03 | Train instances: 142
+2026-07-17 12:28:40 | INFO | M03 | Test instances: 36
+2026-07-17 12:28:40 | INFO | M03 | Fitting DecisionTreeClassifier(max_depth=3)
+2026-07-17 12:28:40 | INFO | M03 | Test accuracy: 0.944
+2026-07-17 12:28:40 | INFO | M03 | Per-class precision / recall / F1:
+2026-07-17 12:28:40 | DEBUG | M03 | 
+              precision    recall  f1-score   support
+
+           0       1.00      0.92      0.96        12
+           1       0.88      1.00      0.93        14
+           2       1.00      0.90      0.95        10
+
+    accuracy                           0.94        36
+   macro avg       0.96      0.94      0.95        36
+weighted avg       0.95      0.94      0.94        36
+
+2026-07-17 12:28:40 | INFO | M03 | Showing confusion matrix (rows = actual, cols = predicted)
+2026-07-17 12:28:41 | DEBUG | M03 |   depth= 1  train=0.662  test=0.583
+2026-07-17 12:28:41 | DEBUG | M03 |   depth= 2  train=0.937  test=0.861
+2026-07-17 12:28:41 | DEBUG | M03 |   depth= 3  train=0.993  test=0.944
+2026-07-17 12:28:41 | DEBUG | M03 |   depth= 4  train=1.000  test=0.944
+2026-07-17 12:28:41 | DEBUG | M03 |   depth= 5  train=1.000  test=0.944
+2026-07-17 12:28:41 | DEBUG | M03 |   depth= 6  train=1.000  test=0.944
+2026-07-17 12:28:41 | DEBUG | M03 |   depth= 7  train=1.000  test=0.944
+2026-07-17 12:28:41 | DEBUG | M03 |   depth= 8  train=1.000  test=0.944
+2026-07-17 12:28:41 | DEBUG | M03 |   depth= 9  train=1.000  test=0.944
+2026-07-17 12:28:41 | DEBUG | M03 |   depth=10  train=1.000  test=0.944
+2026-07-17 12:28:41 | DEBUG | M03 |   depth=11  train=1.000  test=0.944
+2026-07-17 12:28:41 | DEBUG | M03 |   depth=12  train=1.000  test=0.944
+2026-07-17 12:30:13 | INFO | M03 | === RUN START ===
+2026-07-17 12:30:13 | INFO | M03 | project=M03
+2026-07-17 12:30:13 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 12:30:13 | INFO | M03 | python=3.14.0
+2026-07-17 12:30:13 | INFO | M03 | os=Windows 11
+2026-07-17 12:30:13 | INFO | M03 | shell=powershell
+2026-07-17 12:30:13 | INFO | M03 | cwd=notebooks
+2026-07-17 12:30:13 | INFO | M03 | github_actions=False
+2026-07-17 12:30:13 | INFO | M03 | Confirming installation:
+2026-07-17 12:30:13 | INFO | M03 |   python:       3.14.0
+2026-07-17 12:30:13 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 12:30:13 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 12:30:13 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 12:30:13 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 12:30:13 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 12:30:13 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 12:30:13 | INFO | M03 | Missing values: 0
+2026-07-17 12:30:13 | INFO | M03 | Correlation range for target variable: -0.8474975401417585 to 1.0
+2026-07-17 12:30:13 | INFO | M03 | Strong correlations with target:
+['alcalinity_of_ash', 'total_phenols', 'flavanoids', 'hue', 'od280/od315_of_diluted_wines', 'proline', 'target']
+2026-07-17 12:30:20 | INFO | M03 | Train instances: 142
+2026-07-17 12:30:20 | INFO | M03 | Test instances: 36
+2026-07-17 12:30:21 | INFO | M03 | Fitting DecisionTreeClassifier(max_depth=3)
+2026-07-17 12:30:21 | INFO | M03 | Test accuracy: 0.944
+2026-07-17 12:30:21 | INFO | M03 | Per-class precision / recall / F1:
+2026-07-17 12:30:21 | DEBUG | M03 | 
+              precision    recall  f1-score   support
+
+           0       1.00      0.92      0.96        12
+           1       0.88      1.00      0.93        14
+           2       1.00      0.90      0.95        10
+
+    accuracy                           0.94        36
+   macro avg       0.96      0.94      0.95        36
+weighted avg       0.95      0.94      0.94        36
+
+2026-07-17 12:30:21 | INFO | M03 | Showing confusion matrix (rows = actual, cols = predicted)
+2026-07-17 12:30:21 | DEBUG | M03 |   depth= 1  train=0.662  test=0.583
+2026-07-17 12:30:21 | DEBUG | M03 |   depth= 2  train=0.937  test=0.861
+2026-07-17 12:30:21 | DEBUG | M03 |   depth= 3  train=0.993  test=0.944
+2026-07-17 12:30:21 | DEBUG | M03 |   depth= 4  train=1.000  test=0.944
+2026-07-17 12:30:21 | DEBUG | M03 |   depth= 5  train=1.000  test=0.944
+2026-07-17 12:30:21 | DEBUG | M03 |   depth= 6  train=1.000  test=0.944
+2026-07-17 12:30:21 | DEBUG | M03 |   depth= 7  train=1.000  test=0.944
+2026-07-17 12:30:21 | DEBUG | M03 |   depth= 8  train=1.000  test=0.944
+2026-07-17 12:30:21 | DEBUG | M03 |   depth= 9  train=1.000  test=0.944
+2026-07-17 12:30:21 | DEBUG | M03 |   depth=10  train=1.000  test=0.944
+2026-07-17 12:30:21 | DEBUG | M03 |   depth=11  train=1.000  test=0.944
+2026-07-17 12:30:21 | DEBUG | M03 |   depth=12  train=1.000  test=0.944
+2026-07-17 12:33:33 | INFO | M03 | === RUN START ===
+2026-07-17 12:33:33 | INFO | M03 | project=M03
+2026-07-17 12:33:33 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 12:33:33 | INFO | M03 | python=3.14.0
+2026-07-17 12:33:33 | INFO | M03 | os=Windows 11
+2026-07-17 12:33:33 | INFO | M03 | shell=powershell
+2026-07-17 12:33:33 | INFO | M03 | cwd=notebooks
+2026-07-17 12:33:33 | INFO | M03 | github_actions=False
+2026-07-17 12:33:33 | INFO | M03 | Confirming installation:
+2026-07-17 12:33:33 | INFO | M03 |   python:       3.14.0
+2026-07-17 12:33:33 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 12:33:33 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 12:33:33 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 12:33:33 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 12:33:33 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 12:33:33 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 12:33:33 | INFO | M03 | Missing values: 0
+2026-07-17 12:33:33 | INFO | M03 | Correlation range for target variable: -0.8474975401417585 to 1.0
+2026-07-17 12:33:33 | INFO | M03 | Strong correlations with target:
+['alcalinity_of_ash', 'total_phenols', 'flavanoids', 'hue', 'od280/od315_of_diluted_wines', 'proline', 'target']
+2026-07-17 12:33:41 | INFO | M03 | Train instances: 142
+2026-07-17 12:33:41 | INFO | M03 | Test instances: 36
+2026-07-17 12:33:41 | INFO | M03 | Fitting DecisionTreeClassifier(max_depth=3)
+2026-07-17 12:33:41 | INFO | M03 | Test accuracy: 0.944
+2026-07-17 12:33:41 | INFO | M03 | Per-class precision / recall / F1:
+2026-07-17 12:33:41 | DEBUG | M03 | 
+              precision    recall  f1-score   support
+
+           0       1.00      0.92      0.96        12
+           1       0.88      1.00      0.93        14
+           2       1.00      0.90      0.95        10
+
+    accuracy                           0.94        36
+   macro avg       0.96      0.94      0.95        36
+weighted avg       0.95      0.94      0.94        36
+
+2026-07-17 12:33:41 | INFO | M03 | Showing confusion matrix (rows = actual, cols = predicted)
+2026-07-17 12:33:42 | DEBUG | M03 |   depth= 1  train=0.662  test=0.583
+2026-07-17 12:33:42 | DEBUG | M03 |   depth= 2  train=0.937  test=0.861
+2026-07-17 12:33:42 | DEBUG | M03 |   depth= 3  train=0.993  test=0.944
+2026-07-17 12:33:42 | DEBUG | M03 |   depth= 4  train=1.000  test=0.944
+2026-07-17 12:33:42 | DEBUG | M03 |   depth= 5  train=1.000  test=0.944
+2026-07-17 12:33:42 | DEBUG | M03 |   depth= 6  train=1.000  test=0.944
+2026-07-17 12:33:42 | DEBUG | M03 |   depth= 7  train=1.000  test=0.944
+2026-07-17 12:33:42 | DEBUG | M03 |   depth= 8  train=1.000  test=0.944
+2026-07-17 12:33:42 | DEBUG | M03 |   depth= 9  train=1.000  test=0.944
+2026-07-17 12:33:42 | DEBUG | M03 |   depth=10  train=1.000  test=0.944
+2026-07-17 12:33:42 | DEBUG | M03 |   depth=11  train=1.000  test=0.944
+2026-07-17 12:33:42 | DEBUG | M03 |   depth=12  train=1.000  test=0.944
+2026-07-17 12:40:35 | INFO | M03 | === RUN START ===
+2026-07-17 12:40:35 | INFO | M03 | project=M03
+2026-07-17 12:40:35 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 12:40:35 | INFO | M03 | python=3.14.0
+2026-07-17 12:40:35 | INFO | M03 | os=Windows 11
+2026-07-17 12:40:35 | INFO | M03 | shell=powershell
+2026-07-17 12:40:35 | INFO | M03 | cwd=notebooks
+2026-07-17 12:40:35 | INFO | M03 | github_actions=False
+2026-07-17 12:40:35 | INFO | M03 | Confirming installation:
+2026-07-17 12:40:35 | INFO | M03 |   python:       3.14.0
+2026-07-17 12:40:35 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 12:40:35 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 12:40:35 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 12:40:35 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 12:40:35 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 12:40:35 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 12:40:35 | INFO | M03 | Missing values: 0
+2026-07-17 12:40:35 | INFO | M03 | Correlation range for target variable: -0.8474975401417585 to 1.0
+2026-07-17 12:40:35 | INFO | M03 | Strong correlations with target:
+['alcalinity_of_ash', 'total_phenols', 'flavanoids', 'hue', 'od280/od315_of_diluted_wines', 'proline', 'target']
+2026-07-17 12:40:43 | INFO | M03 | Train instances: 142
+2026-07-17 12:40:43 | INFO | M03 | Test instances: 36
+2026-07-17 12:40:43 | INFO | M03 | Fitting DecisionTreeClassifier(max_depth=3)
+2026-07-17 12:40:43 | INFO | M03 | Test accuracy: 0.944
+2026-07-17 12:40:43 | INFO | M03 | Per-class precision / recall / F1:
+2026-07-17 12:40:43 | DEBUG | M03 | 
+              precision    recall  f1-score   support
+
+           0       1.00      0.92      0.96        12
+           1       0.88      1.00      0.93        14
+           2       1.00      0.90      0.95        10
+
+    accuracy                           0.94        36
+   macro avg       0.96      0.94      0.95        36
+weighted avg       0.95      0.94      0.94        36
+
+2026-07-17 12:40:43 | INFO | M03 | Showing confusion matrix (rows = actual, cols = predicted)
+2026-07-17 12:40:43 | DEBUG | M03 |   depth= 1  train=0.662  test=0.583
+2026-07-17 12:40:43 | DEBUG | M03 |   depth= 2  train=0.937  test=0.861
+2026-07-17 12:40:43 | DEBUG | M03 |   depth= 3  train=0.993  test=0.944
+2026-07-17 12:40:43 | DEBUG | M03 |   depth= 4  train=1.000  test=0.944
+2026-07-17 12:40:43 | DEBUG | M03 |   depth= 5  train=1.000  test=0.944
+2026-07-17 12:40:43 | DEBUG | M03 |   depth= 6  train=1.000  test=0.944
+2026-07-17 12:40:43 | DEBUG | M03 |   depth= 7  train=1.000  test=0.944
+2026-07-17 12:40:43 | DEBUG | M03 |   depth= 8  train=1.000  test=0.944
+2026-07-17 12:40:43 | DEBUG | M03 |   depth= 9  train=1.000  test=0.944
+2026-07-17 12:40:43 | DEBUG | M03 |   depth=10  train=1.000  test=0.944
+2026-07-17 12:40:43 | DEBUG | M03 |   depth=11  train=1.000  test=0.944
+2026-07-17 12:40:44 | DEBUG | M03 |   depth=12  train=1.000  test=0.944
+2026-07-17 12:41:46 | INFO | M03 | === RUN START ===
+2026-07-17 12:41:46 | INFO | M03 | project=M03
+2026-07-17 12:41:46 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 12:41:46 | INFO | M03 | python=3.14.0
+2026-07-17 12:41:46 | INFO | M03 | os=Windows 11
+2026-07-17 12:41:46 | INFO | M03 | shell=powershell
+2026-07-17 12:41:46 | INFO | M03 | cwd=notebooks
+2026-07-17 12:41:46 | INFO | M03 | github_actions=False
+2026-07-17 12:41:46 | INFO | M03 | Confirming installation:
+2026-07-17 12:41:46 | INFO | M03 |   python:       3.14.0
+2026-07-17 12:41:46 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 12:41:46 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 12:41:46 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 12:41:46 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 12:41:46 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 12:41:46 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 12:41:46 | INFO | M03 | Missing values: 0
+2026-07-17 12:41:46 | INFO | M03 | Correlation range for target variable: -0.8474975401417585 to 1.0
+2026-07-17 12:41:46 | INFO | M03 | Strong correlations with target:
+['alcalinity_of_ash', 'total_phenols', 'flavanoids', 'hue', 'od280/od315_of_diluted_wines', 'proline', 'target']
+2026-07-17 12:41:54 | INFO | M03 | Train instances: 142
+2026-07-17 12:41:54 | INFO | M03 | Test instances: 36
+2026-07-17 12:41:54 | INFO | M03 | Fitting DecisionTreeClassifier(max_depth=3)
+2026-07-17 12:41:54 | INFO | M03 | Test accuracy: 0.944
+2026-07-17 12:41:54 | INFO | M03 | Per-class precision / recall / F1:
+2026-07-17 12:41:54 | DEBUG | M03 | 
+              precision    recall  f1-score   support
+
+           0       1.00      0.92      0.96        12
+           1       0.88      1.00      0.93        14
+           2       1.00      0.90      0.95        10
+
+    accuracy                           0.94        36
+   macro avg       0.96      0.94      0.95        36
+weighted avg       0.95      0.94      0.94        36
+
+2026-07-17 12:41:54 | INFO | M03 | Showing confusion matrix (rows = actual, cols = predicted)
+2026-07-17 12:41:54 | DEBUG | M03 |   depth= 1  train=0.662  test=0.583
+2026-07-17 12:41:54 | DEBUG | M03 |   depth= 2  train=0.937  test=0.861
+2026-07-17 12:41:54 | DEBUG | M03 |   depth= 3  train=0.993  test=0.944
+2026-07-17 12:41:54 | DEBUG | M03 |   depth= 4  train=1.000  test=0.944
+2026-07-17 12:41:54 | DEBUG | M03 |   depth= 5  train=1.000  test=0.944
+2026-07-17 12:41:54 | DEBUG | M03 |   depth= 6  train=1.000  test=0.944
+2026-07-17 12:41:54 | DEBUG | M03 |   depth= 7  train=1.000  test=0.944
+2026-07-17 12:41:54 | DEBUG | M03 |   depth= 8  train=1.000  test=0.944
+2026-07-17 12:41:54 | DEBUG | M03 |   depth= 9  train=1.000  test=0.944
+2026-07-17 12:41:54 | DEBUG | M03 |   depth=10  train=1.000  test=0.944
+2026-07-17 12:41:54 | DEBUG | M03 |   depth=11  train=1.000  test=0.944
+2026-07-17 12:41:54 | DEBUG | M03 |   depth=12  train=1.000  test=0.944
+2026-07-17 12:42:28 | INFO | M03 | === RUN START ===
+2026-07-17 12:42:28 | INFO | M03 | project=M03
+2026-07-17 12:42:28 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 12:42:28 | INFO | M03 | python=3.14.0
+2026-07-17 12:42:28 | INFO | M03 | os=Windows 11
+2026-07-17 12:42:29 | INFO | M03 | shell=powershell
+2026-07-17 12:42:29 | INFO | M03 | cwd=notebooks
+2026-07-17 12:42:29 | INFO | M03 | github_actions=False
+2026-07-17 12:42:29 | INFO | M03 | Confirming installation:
+2026-07-17 12:42:29 | INFO | M03 |   python:       3.14.0
+2026-07-17 12:42:29 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 12:42:29 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 12:42:29 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 12:42:29 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 12:42:29 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 12:42:29 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 12:42:29 | INFO | M03 | Missing values: 0
+2026-07-17 12:42:29 | INFO | M03 | Correlation range for target variable: -0.8474975401417585 to 1.0
+2026-07-17 12:42:29 | INFO | M03 | Strong correlations with target:
+['alcalinity_of_ash', 'total_phenols', 'flavanoids', 'hue', 'od280/od315_of_diluted_wines', 'proline', 'target']
+2026-07-17 12:42:36 | INFO | M03 | Train instances: 142
+2026-07-17 12:42:36 | INFO | M03 | Test instances: 36
+2026-07-17 12:42:36 | INFO | M03 | Fitting DecisionTreeClassifier(max_depth=3)
+2026-07-17 12:42:37 | INFO | M03 | Test accuracy: 0.944
+2026-07-17 12:42:37 | INFO | M03 | Per-class precision / recall / F1:
+2026-07-17 12:42:37 | DEBUG | M03 | 
+              precision    recall  f1-score   support
+
+           0       1.00      0.92      0.96        12
+           1       0.88      1.00      0.93        14
+           2       1.00      0.90      0.95        10
+
+    accuracy                           0.94        36
+   macro avg       0.96      0.94      0.95        36
+weighted avg       0.95      0.94      0.94        36
+
+2026-07-17 12:42:37 | INFO | M03 | Showing confusion matrix (rows = actual, cols = predicted)
+2026-07-17 12:42:37 | DEBUG | M03 |   depth= 1  train=0.662  test=0.583
+2026-07-17 12:42:37 | DEBUG | M03 |   depth= 2  train=0.937  test=0.861
+2026-07-17 12:42:37 | DEBUG | M03 |   depth= 3  train=0.993  test=0.944
+2026-07-17 12:42:37 | DEBUG | M03 |   depth= 4  train=1.000  test=0.944
+2026-07-17 12:42:37 | DEBUG | M03 |   depth= 5  train=1.000  test=0.944
+2026-07-17 12:42:37 | DEBUG | M03 |   depth= 6  train=1.000  test=0.944
+2026-07-17 12:42:37 | DEBUG | M03 |   depth= 7  train=1.000  test=0.944
+2026-07-17 12:42:37 | DEBUG | M03 |   depth= 8  train=1.000  test=0.944
+2026-07-17 12:42:37 | DEBUG | M03 |   depth= 9  train=1.000  test=0.944
+2026-07-17 12:42:37 | DEBUG | M03 |   depth=10  train=1.000  test=0.944
+2026-07-17 12:42:37 | DEBUG | M03 |   depth=11  train=1.000  test=0.944
+2026-07-17 12:42:37 | DEBUG | M03 |   depth=12  train=1.000  test=0.944
+2026-07-17 12:43:52 | INFO | M03 | === RUN START ===
+2026-07-17 12:43:52 | INFO | M03 | project=M03
+2026-07-17 12:43:52 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 12:43:52 | INFO | M03 | python=3.14.0
+2026-07-17 12:43:52 | INFO | M03 | os=Windows 11
+2026-07-17 12:43:52 | INFO | M03 | shell=powershell
+2026-07-17 12:43:52 | INFO | M03 | cwd=notebooks
+2026-07-17 12:43:52 | INFO | M03 | github_actions=False
+2026-07-17 12:43:52 | INFO | M03 | Confirming installation:
+2026-07-17 12:43:52 | INFO | M03 |   python:       3.14.0
+2026-07-17 12:43:52 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 12:43:52 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 12:43:52 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 12:43:52 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 12:43:52 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 12:43:52 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 12:43:52 | INFO | M03 | Missing values: 0
+2026-07-17 12:43:52 | INFO | M03 | Correlation range for target variable: -0.8474975401417585 to 1.0
+2026-07-17 12:43:52 | INFO | M03 | Strong correlations with target:
+['alcalinity_of_ash', 'total_phenols', 'flavanoids', 'hue', 'od280/od315_of_diluted_wines', 'proline', 'target']
+2026-07-17 12:44:00 | INFO | M03 | Train instances: 142
+2026-07-17 12:44:00 | INFO | M03 | Test instances: 36
+2026-07-17 12:44:00 | INFO | M03 | Fitting DecisionTreeClassifier(max_depth=3)
+2026-07-17 12:44:00 | INFO | M03 | Test accuracy: 0.944
+2026-07-17 12:44:00 | INFO | M03 | Per-class precision / recall / F1:
+2026-07-17 12:44:00 | DEBUG | M03 | 
+              precision    recall  f1-score   support
+
+           0       1.00      0.92      0.96        12
+           1       0.88      1.00      0.93        14
+           2       1.00      0.90      0.95        10
+
+    accuracy                           0.94        36
+   macro avg       0.96      0.94      0.95        36
+weighted avg       0.95      0.94      0.94        36
+
+2026-07-17 12:44:00 | INFO | M03 | Showing confusion matrix (rows = actual, cols = predicted)
+2026-07-17 12:44:01 | DEBUG | M03 |   depth= 1  train=0.662  test=0.583
+2026-07-17 12:44:01 | DEBUG | M03 |   depth= 2  train=0.937  test=0.861
+2026-07-17 12:44:01 | DEBUG | M03 |   depth= 3  train=0.993  test=0.944
+2026-07-17 12:44:01 | DEBUG | M03 |   depth= 4  train=1.000  test=0.944
+2026-07-17 12:44:01 | DEBUG | M03 |   depth= 5  train=1.000  test=0.944
+2026-07-17 12:44:01 | DEBUG | M03 |   depth= 6  train=1.000  test=0.944
+2026-07-17 12:44:01 | DEBUG | M03 |   depth= 7  train=1.000  test=0.944
+2026-07-17 12:44:01 | DEBUG | M03 |   depth= 8  train=1.000  test=0.944
+2026-07-17 12:44:01 | DEBUG | M03 |   depth= 9  train=1.000  test=0.944
+2026-07-17 12:44:01 | DEBUG | M03 |   depth=10  train=1.000  test=0.944
+2026-07-17 12:44:01 | DEBUG | M03 |   depth=11  train=1.000  test=0.944
+2026-07-17 12:44:01 | DEBUG | M03 |   depth=12  train=1.000  test=0.944
+2026-07-17 12:45:36 | INFO | M03 | === RUN START ===
+2026-07-17 12:45:36 | INFO | M03 | project=M03
+2026-07-17 12:45:36 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 12:45:36 | INFO | M03 | python=3.14.0
+2026-07-17 12:45:36 | INFO | M03 | os=Windows 11
+2026-07-17 12:45:36 | INFO | M03 | shell=powershell
+2026-07-17 12:45:36 | INFO | M03 | cwd=notebooks
+2026-07-17 12:45:36 | INFO | M03 | github_actions=False
+2026-07-17 12:45:36 | INFO | M03 | Confirming installation:
+2026-07-17 12:45:36 | INFO | M03 |   python:       3.14.0
+2026-07-17 12:45:36 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 12:45:36 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 12:45:36 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 12:45:36 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 12:45:36 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 12:45:36 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 12:45:36 | INFO | M03 | Missing values: 0
+2026-07-17 12:45:36 | INFO | M03 | Correlation range for target variable: -0.8474975401417585 to 1.0
+2026-07-17 12:45:36 | INFO | M03 | Strong correlations with target:
+['alcalinity_of_ash', 'total_phenols', 'flavanoids', 'hue', 'od280/od315_of_diluted_wines', 'proline', 'target']
+2026-07-17 12:45:44 | INFO | M03 | Train instances: 142
+2026-07-17 12:45:44 | INFO | M03 | Test instances: 36
+2026-07-17 12:45:44 | INFO | M03 | Fitting DecisionTreeClassifier(max_depth=3)
+2026-07-17 12:45:44 | INFO | M03 | Test accuracy: 0.944
+2026-07-17 12:45:44 | INFO | M03 | Per-class precision / recall / F1:
+2026-07-17 12:45:44 | DEBUG | M03 | 
+              precision    recall  f1-score   support
+
+           0       1.00      0.92      0.96        12
+           1       0.88      1.00      0.93        14
+           2       1.00      0.90      0.95        10
+
+    accuracy                           0.94        36
+   macro avg       0.96      0.94      0.95        36
+weighted avg       0.95      0.94      0.94        36
+
+2026-07-17 12:45:44 | INFO | M03 | Showing confusion matrix (rows = actual, cols = predicted)
+2026-07-17 12:45:44 | DEBUG | M03 |   depth= 1  train=0.662  test=0.583
+2026-07-17 12:45:44 | DEBUG | M03 |   depth= 2  train=0.937  test=0.861
+2026-07-17 12:45:44 | DEBUG | M03 |   depth= 3  train=0.993  test=0.944
+2026-07-17 12:45:44 | DEBUG | M03 |   depth= 4  train=1.000  test=0.944
+2026-07-17 12:45:44 | DEBUG | M03 |   depth= 5  train=1.000  test=0.944
+2026-07-17 12:45:44 | DEBUG | M03 |   depth= 6  train=1.000  test=0.944
+2026-07-17 12:45:45 | DEBUG | M03 |   depth= 7  train=1.000  test=0.944
+2026-07-17 12:45:45 | DEBUG | M03 |   depth= 8  train=1.000  test=0.944
+2026-07-17 12:45:45 | DEBUG | M03 |   depth= 9  train=1.000  test=0.944
+2026-07-17 12:45:45 | DEBUG | M03 |   depth=10  train=1.000  test=0.944
+2026-07-17 12:45:45 | DEBUG | M03 |   depth=11  train=1.000  test=0.944
+2026-07-17 12:45:45 | DEBUG | M03 |   depth=12  train=1.000  test=0.944
+2026-07-17 12:50:23 | INFO | M03 | === RUN START ===
+2026-07-17 12:50:23 | INFO | M03 | project=M03
+2026-07-17 12:50:23 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 12:50:23 | INFO | M03 | python=3.14.0
+2026-07-17 12:50:23 | INFO | M03 | os=Windows 11
+2026-07-17 12:50:23 | INFO | M03 | shell=powershell
+2026-07-17 12:50:23 | INFO | M03 | cwd=notebooks
+2026-07-17 12:50:23 | INFO | M03 | github_actions=False
+2026-07-17 12:50:23 | INFO | M03 | Confirming installation:
+2026-07-17 12:50:23 | INFO | M03 |   python:       3.14.0
+2026-07-17 12:50:23 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 12:50:23 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 12:50:23 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 12:50:23 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 12:50:23 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 12:50:23 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 12:50:23 | INFO | M03 | Missing values: 0
+2026-07-17 12:50:23 | INFO | M03 | Correlation range for target variable: -0.8474975401417585 to 1.0
+2026-07-17 12:50:23 | INFO | M03 | Strong correlations with target:
+['alcalinity_of_ash', 'total_phenols', 'flavanoids', 'hue', 'od280/od315_of_diluted_wines', 'proline', 'target']
+2026-07-17 12:50:31 | INFO | M03 | Train instances: 142
+2026-07-17 12:50:31 | INFO | M03 | Test instances: 36
+2026-07-17 12:50:31 | INFO | M03 | Fitting DecisionTreeClassifier(max_depth=3)
+2026-07-17 12:50:31 | INFO | M03 | Test accuracy: 0.944
+2026-07-17 12:50:31 | INFO | M03 | Per-class precision / recall / F1:
+2026-07-17 12:50:31 | DEBUG | M03 | 
+              precision    recall  f1-score   support
+
+           0       1.00      0.92      0.96        12
+           1       0.88      1.00      0.93        14
+           2       1.00      0.90      0.95        10
+
+    accuracy                           0.94        36
+   macro avg       0.96      0.94      0.95        36
+weighted avg       0.95      0.94      0.94        36
+
+2026-07-17 12:50:31 | INFO | M03 | Showing confusion matrix (rows = actual, cols = predicted)
+2026-07-17 12:50:31 | DEBUG | M03 |   depth= 1  train=0.662  test=0.583
+2026-07-17 12:50:31 | DEBUG | M03 |   depth= 2  train=0.937  test=0.861
+2026-07-17 12:50:31 | DEBUG | M03 |   depth= 3  train=0.993  test=0.944
+2026-07-17 12:50:31 | DEBUG | M03 |   depth= 4  train=1.000  test=0.944
+2026-07-17 12:50:31 | DEBUG | M03 |   depth= 5  train=1.000  test=0.944
+2026-07-17 12:50:31 | DEBUG | M03 |   depth= 6  train=1.000  test=0.944
+2026-07-17 12:50:31 | DEBUG | M03 |   depth= 7  train=1.000  test=0.944
+2026-07-17 12:50:31 | DEBUG | M03 |   depth= 8  train=1.000  test=0.944
+2026-07-17 12:50:31 | DEBUG | M03 |   depth= 9  train=1.000  test=0.944
+2026-07-17 12:50:31 | DEBUG | M03 |   depth=10  train=1.000  test=0.944
+2026-07-17 12:50:31 | DEBUG | M03 |   depth=11  train=1.000  test=0.944
+2026-07-17 12:50:31 | DEBUG | M03 |   depth=12  train=1.000  test=0.944
+2026-07-17 12:53:18 | INFO | M03 | === RUN START ===
+2026-07-17 12:53:18 | INFO | M03 | project=M03
+2026-07-17 12:53:18 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 12:53:18 | INFO | M03 | python=3.14.0
+2026-07-17 12:53:18 | INFO | M03 | os=Windows 11
+2026-07-17 12:53:18 | INFO | M03 | shell=powershell
+2026-07-17 12:53:18 | INFO | M03 | cwd=notebooks
+2026-07-17 12:53:18 | INFO | M03 | github_actions=False
+2026-07-17 12:53:18 | INFO | M03 | Confirming installation:
+2026-07-17 12:53:18 | INFO | M03 |   python:       3.14.0
+2026-07-17 12:53:18 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 12:53:18 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 12:53:18 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 12:53:18 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 12:53:18 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 12:53:18 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 12:53:18 | INFO | M03 | Missing values: 0
+2026-07-17 12:53:18 | INFO | M03 | Correlation range for target variable: -0.8474975401417585 to 1.0
+2026-07-17 12:53:18 | INFO | M03 | Strong correlations with target:
+['alcalinity_of_ash', 'total_phenols', 'flavanoids', 'hue', 'od280/od315_of_diluted_wines', 'proline', 'target']
+2026-07-17 12:53:25 | INFO | M03 | Train instances: 142
+2026-07-17 12:53:25 | INFO | M03 | Test instances: 36
+2026-07-17 12:53:25 | INFO | M03 | Fitting DecisionTreeClassifier(max_depth=3)
+2026-07-17 12:53:25 | INFO | M03 | Test accuracy: 0.944
+2026-07-17 12:53:25 | INFO | M03 | Per-class precision / recall / F1:
+2026-07-17 12:53:25 | DEBUG | M03 | 
+              precision    recall  f1-score   support
+
+           0       1.00      0.92      0.96        12
+           1       0.88      1.00      0.93        14
+           2       1.00      0.90      0.95        10
+
+    accuracy                           0.94        36
+   macro avg       0.96      0.94      0.95        36
+weighted avg       0.95      0.94      0.94        36
+
+2026-07-17 12:53:25 | INFO | M03 | Showing confusion matrix (rows = actual, cols = predicted)
+2026-07-17 12:53:26 | DEBUG | M03 |   depth= 1  train=0.662  test=0.583
+2026-07-17 12:53:26 | DEBUG | M03 |   depth= 2  train=0.937  test=0.861
+2026-07-17 12:53:26 | DEBUG | M03 |   depth= 3  train=0.993  test=0.944
+2026-07-17 12:53:26 | DEBUG | M03 |   depth= 4  train=1.000  test=0.944
+2026-07-17 12:53:26 | DEBUG | M03 |   depth= 5  train=1.000  test=0.944
+2026-07-17 12:53:26 | DEBUG | M03 |   depth= 6  train=1.000  test=0.944
+2026-07-17 12:53:26 | DEBUG | M03 |   depth= 7  train=1.000  test=0.944
+2026-07-17 12:53:26 | DEBUG | M03 |   depth= 8  train=1.000  test=0.944
+2026-07-17 12:53:26 | DEBUG | M03 |   depth= 9  train=1.000  test=0.944
+2026-07-17 12:53:26 | DEBUG | M03 |   depth=10  train=1.000  test=0.944
+2026-07-17 12:53:26 | DEBUG | M03 |   depth=11  train=1.000  test=0.944
+2026-07-17 12:53:26 | DEBUG | M03 |   depth=12  train=1.000  test=0.944
+2026-07-17 13:08:56 | INFO | M03 | === RUN START ===
+2026-07-17 13:08:56 | INFO | M03 | project=M03
+2026-07-17 13:08:56 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 13:08:56 | INFO | M03 | python=3.14.0
+2026-07-17 13:08:56 | INFO | M03 | os=Windows 11
+2026-07-17 13:08:56 | INFO | M03 | shell=powershell
+2026-07-17 13:08:56 | INFO | M03 | cwd=notebooks
+2026-07-17 13:08:56 | INFO | M03 | github_actions=False
+2026-07-17 13:08:56 | INFO | M03 | Confirming installation:
+2026-07-17 13:08:56 | INFO | M03 |   python:       3.14.0
+2026-07-17 13:08:56 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 13:08:56 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 13:08:56 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 13:08:56 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 13:08:56 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 13:08:56 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 13:08:57 | INFO | M03 | Missing values: 0
+2026-07-17 13:08:57 | INFO | M03 | Correlation range for target variable: -0.8474975401417585 to 1.0
+2026-07-17 13:08:57 | INFO | M03 | Strong correlations with target:
+['alcalinity_of_ash', 'total_phenols', 'flavanoids', 'hue', 'od280/od315_of_diluted_wines', 'proline', 'target']
+2026-07-17 13:09:04 | INFO | M03 | Train instances: 142
+2026-07-17 13:09:04 | INFO | M03 | Test instances: 36
+2026-07-17 13:09:04 | INFO | M03 | Fitting DecisionTreeClassifier(max_depth=3)
+2026-07-17 13:09:04 | INFO | M03 | Test accuracy: 0.944
+2026-07-17 13:09:04 | INFO | M03 | Per-class precision / recall / F1:
+2026-07-17 13:09:04 | DEBUG | M03 | 
+              precision    recall  f1-score   support
+
+           0       1.00      0.92      0.96        12
+           1       0.88      1.00      0.93        14
+           2       1.00      0.90      0.95        10
+
+    accuracy                           0.94        36
+   macro avg       0.96      0.94      0.95        36
+weighted avg       0.95      0.94      0.94        36
+
+2026-07-17 13:09:04 | INFO | M03 | Showing confusion matrix (rows = actual, cols = predicted)
+2026-07-17 13:09:04 | DEBUG | M03 |   depth= 1  train=0.662  test=0.583
+2026-07-17 13:09:04 | DEBUG | M03 |   depth= 2  train=0.937  test=0.861
+2026-07-17 13:09:05 | DEBUG | M03 |   depth= 3  train=0.993  test=0.944
+2026-07-17 13:09:05 | DEBUG | M03 |   depth= 4  train=1.000  test=0.944
+2026-07-17 13:09:05 | DEBUG | M03 |   depth= 5  train=1.000  test=0.944
+2026-07-17 13:09:05 | DEBUG | M03 |   depth= 6  train=1.000  test=0.944
+2026-07-17 13:09:05 | DEBUG | M03 |   depth= 7  train=1.000  test=0.944
+2026-07-17 13:09:05 | DEBUG | M03 |   depth= 8  train=1.000  test=0.944
+2026-07-17 13:09:05 | DEBUG | M03 |   depth= 9  train=1.000  test=0.944
+2026-07-17 13:09:05 | DEBUG | M03 |   depth=10  train=1.000  test=0.944
+2026-07-17 13:09:05 | DEBUG | M03 |   depth=11  train=1.000  test=0.944
+2026-07-17 13:09:05 | DEBUG | M03 |   depth=12  train=1.000  test=0.944
+2026-07-17 13:17:44 | INFO | M03 | === RUN START ===
+2026-07-17 13:17:44 | INFO | M03 | project=M03
+2026-07-17 13:17:44 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 13:17:44 | INFO | M03 | python=3.14.0
+2026-07-17 13:17:44 | INFO | M03 | os=Windows 11
+2026-07-17 13:17:44 | INFO | M03 | shell=powershell
+2026-07-17 13:17:44 | INFO | M03 | cwd=notebooks
+2026-07-17 13:17:44 | INFO | M03 | github_actions=False
+2026-07-17 13:17:44 | INFO | M03 | Confirming installation:
+2026-07-17 13:17:44 | INFO | M03 |   python:       3.14.0
+2026-07-17 13:17:44 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 13:17:44 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 13:17:44 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 13:17:44 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 13:17:44 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 13:17:44 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 13:17:44 | INFO | M03 | Missing values: 0
+2026-07-17 13:17:44 | INFO | M03 | Correlation range for target variable: -0.8474975401417585 to 1.0
+2026-07-17 13:17:44 | INFO | M03 | Strong correlations with target:
+['alcalinity_of_ash', 'total_phenols', 'flavanoids', 'hue', 'od280/od315_of_diluted_wines', 'proline', 'target']
+2026-07-17 13:17:53 | INFO | M03 | Train instances: 142
+2026-07-17 13:17:53 | INFO | M03 | Test instances: 36
+2026-07-17 13:17:53 | INFO | M03 | Fitting DecisionTreeClassifier(max_depth=3)
+2026-07-17 13:17:53 | INFO | M03 | Test accuracy: 0.944
+2026-07-17 13:17:53 | INFO | M03 | Per-class precision / recall / F1:
+2026-07-17 13:17:53 | DEBUG | M03 | 
+              precision    recall  f1-score   support
+
+           0       1.00      0.92      0.96        12
+           1       0.88      1.00      0.93        14
+           2       1.00      0.90      0.95        10
+
+    accuracy                           0.94        36
+   macro avg       0.96      0.94      0.95        36
+weighted avg       0.95      0.94      0.94        36
+
+2026-07-17 13:17:53 | INFO | M03 | Showing confusion matrix (rows = actual, cols = predicted)
+2026-07-17 13:17:54 | DEBUG | M03 |   depth= 1  train=0.662  test=0.583
+2026-07-17 13:17:54 | DEBUG | M03 |   depth= 2  train=0.937  test=0.861
+2026-07-17 13:17:54 | DEBUG | M03 |   depth= 3  train=0.993  test=0.944
+2026-07-17 13:17:54 | DEBUG | M03 |   depth= 4  train=1.000  test=0.944
+2026-07-17 13:17:54 | DEBUG | M03 |   depth= 5  train=1.000  test=0.944
+2026-07-17 13:17:54 | DEBUG | M03 |   depth= 6  train=1.000  test=0.944
+2026-07-17 13:17:54 | DEBUG | M03 |   depth= 7  train=1.000  test=0.944
+2026-07-17 13:17:54 | DEBUG | M03 |   depth= 8  train=1.000  test=0.944
+2026-07-17 13:17:54 | DEBUG | M03 |   depth= 9  train=1.000  test=0.944
+2026-07-17 13:17:54 | DEBUG | M03 |   depth=10  train=1.000  test=0.944
+2026-07-17 13:17:54 | DEBUG | M03 |   depth=11  train=1.000  test=0.944
+2026-07-17 13:17:54 | DEBUG | M03 |   depth=12  train=1.000  test=0.944
+2026-07-17 13:22:22 | INFO | M03 | === RUN START ===
+2026-07-17 13:22:22 | INFO | M03 | project=M03
+2026-07-17 13:22:22 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 13:22:22 | INFO | M03 | python=3.14.0
+2026-07-17 13:22:22 | INFO | M03 | os=Windows 11
+2026-07-17 13:22:22 | INFO | M03 | shell=powershell
+2026-07-17 13:22:22 | INFO | M03 | cwd=notebooks
+2026-07-17 13:22:22 | INFO | M03 | github_actions=False
+2026-07-17 13:22:22 | INFO | M03 | Confirming installation:
+2026-07-17 13:22:22 | INFO | M03 |   python:       3.14.0
+2026-07-17 13:22:22 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 13:22:22 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 13:22:22 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 13:22:22 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 13:22:22 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 13:22:22 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 13:22:22 | INFO | M03 | Missing values: 0
+2026-07-17 13:22:22 | INFO | M03 | Correlation range for target variable: -0.8474975401417585 to 1.0
+2026-07-17 13:22:22 | INFO | M03 | Strong correlations with target:
+['alcalinity_of_ash', 'total_phenols', 'flavanoids', 'hue', 'od280/od315_of_diluted_wines', 'proline', 'target']
+2026-07-17 13:22:30 | INFO | M03 | Train instances: 142
+2026-07-17 13:22:30 | INFO | M03 | Test instances: 36
+2026-07-17 13:22:30 | INFO | M03 | Fitting DecisionTreeClassifier(max_depth=3)
+2026-07-17 13:22:30 | INFO | M03 | Test accuracy: 0.944
+2026-07-17 13:22:30 | INFO | M03 | Per-class precision / recall / F1:
+2026-07-17 13:22:30 | DEBUG | M03 | 
+              precision    recall  f1-score   support
+
+           0       1.00      0.92      0.96        12
+           1       0.88      1.00      0.93        14
+           2       1.00      0.90      0.95        10
+
+    accuracy                           0.94        36
+   macro avg       0.96      0.94      0.95        36
+weighted avg       0.95      0.94      0.94        36
+
+2026-07-17 13:22:30 | INFO | M03 | Showing confusion matrix (rows = actual, cols = predicted)
+2026-07-17 13:22:30 | DEBUG | M03 |   depth= 1  train=0.662  test=0.583
+2026-07-17 13:22:30 | DEBUG | M03 |   depth= 2  train=0.937  test=0.861
+2026-07-17 13:22:30 | DEBUG | M03 |   depth= 3  train=0.993  test=0.944
+2026-07-17 13:22:30 | DEBUG | M03 |   depth= 4  train=1.000  test=0.944
+2026-07-17 13:22:30 | DEBUG | M03 |   depth= 5  train=1.000  test=0.944
+2026-07-17 13:22:30 | DEBUG | M03 |   depth= 6  train=1.000  test=0.944
+2026-07-17 13:22:30 | DEBUG | M03 |   depth= 7  train=1.000  test=0.944
+2026-07-17 13:22:30 | DEBUG | M03 |   depth= 8  train=1.000  test=0.944
+2026-07-17 13:22:30 | DEBUG | M03 |   depth= 9  train=1.000  test=0.944
+2026-07-17 13:22:30 | DEBUG | M03 |   depth=10  train=1.000  test=0.944
+2026-07-17 13:22:31 | DEBUG | M03 |   depth=11  train=1.000  test=0.944
+2026-07-17 13:22:31 | DEBUG | M03 |   depth=12  train=1.000  test=0.944
+2026-07-17 13:29:51 | INFO | M03 | === RUN START ===
+2026-07-17 13:29:51 | INFO | M03 | project=M03
+2026-07-17 13:29:51 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 13:29:51 | INFO | M03 | python=3.14.0
+2026-07-17 13:29:51 | INFO | M03 | os=Windows 11
+2026-07-17 13:29:51 | INFO | M03 | shell=powershell
+2026-07-17 13:29:51 | INFO | M03 | cwd=notebooks
+2026-07-17 13:29:51 | INFO | M03 | github_actions=False
+2026-07-17 13:29:51 | INFO | M03 | Confirming installation:
+2026-07-17 13:29:51 | INFO | M03 |   python:       3.14.0
+2026-07-17 13:29:51 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 13:29:51 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 13:29:51 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 13:29:51 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 13:29:51 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 13:29:52 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 13:29:52 | INFO | M03 | Missing values: 0
+2026-07-17 13:29:52 | INFO | M03 | Correlation range for target variable: -0.8474975401417585 to 1.0
+2026-07-17 13:29:52 | INFO | M03 | Strong correlations with target:
+['alcalinity_of_ash', 'total_phenols', 'flavanoids', 'hue', 'od280/od315_of_diluted_wines', 'proline', 'target']
+2026-07-17 13:29:59 | INFO | M03 | Train instances: 142
+2026-07-17 13:29:59 | INFO | M03 | Test instances: 36
+2026-07-17 13:29:59 | INFO | M03 | Fitting DecisionTreeClassifier(max_depth=3)
+2026-07-17 13:29:59 | INFO | M03 | Test accuracy: 0.944
+2026-07-17 13:29:59 | INFO | M03 | Per-class precision / recall / F1:
+2026-07-17 13:29:59 | DEBUG | M03 | 
+              precision    recall  f1-score   support
+
+           0       1.00      0.92      0.96        12
+           1       0.88      1.00      0.93        14
+           2       1.00      0.90      0.95        10
+
+    accuracy                           0.94        36
+   macro avg       0.96      0.94      0.95        36
+weighted avg       0.95      0.94      0.94        36
+
+2026-07-17 13:29:59 | INFO | M03 | Showing confusion matrix (rows = actual, cols = predicted)
+2026-07-17 13:30:00 | DEBUG | M03 |   depth= 1  train=0.662  test=0.583
+2026-07-17 13:30:00 | DEBUG | M03 |   depth= 2  train=0.937  test=0.861
+2026-07-17 13:30:00 | DEBUG | M03 |   depth= 3  train=0.993  test=0.944
+2026-07-17 13:30:00 | DEBUG | M03 |   depth= 4  train=1.000  test=0.944
+2026-07-17 13:30:00 | DEBUG | M03 |   depth= 5  train=1.000  test=0.944
+2026-07-17 13:30:00 | DEBUG | M03 |   depth= 6  train=1.000  test=0.944
+2026-07-17 13:30:00 | DEBUG | M03 |   depth= 7  train=1.000  test=0.944
+2026-07-17 13:30:00 | DEBUG | M03 |   depth= 8  train=1.000  test=0.944
+2026-07-17 13:30:00 | DEBUG | M03 |   depth= 9  train=1.000  test=0.944
+2026-07-17 13:30:00 | DEBUG | M03 |   depth=10  train=1.000  test=0.944
+2026-07-17 13:30:00 | DEBUG | M03 |   depth=11  train=1.000  test=0.944
+2026-07-17 13:30:00 | DEBUG | M03 |   depth=12  train=1.000  test=0.944
+2026-07-17 13:30:38 | INFO | M03 | === RUN START ===
+2026-07-17 13:30:38 | INFO | M03 | project=M03
+2026-07-17 13:30:38 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 13:30:38 | INFO | M03 | python=3.14.0
+2026-07-17 13:30:38 | INFO | M03 | os=Windows 11
+2026-07-17 13:30:38 | INFO | M03 | shell=powershell
+2026-07-17 13:30:38 | INFO | M03 | cwd=notebooks
+2026-07-17 13:30:38 | INFO | M03 | github_actions=False
+2026-07-17 13:30:38 | INFO | M03 | Confirming installation:
+2026-07-17 13:30:38 | INFO | M03 |   python:       3.14.0
+2026-07-17 13:30:38 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 13:30:38 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 13:30:38 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 13:30:38 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 13:30:38 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 13:30:39 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 13:30:39 | INFO | M03 | Missing values: 0
+2026-07-17 13:30:39 | INFO | M03 | Correlation range for target variable: -0.8474975401417585 to 1.0
+2026-07-17 13:30:39 | INFO | M03 | Strong correlations with target:
+['alcalinity_of_ash', 'total_phenols', 'flavanoids', 'hue', 'od280/od315_of_diluted_wines', 'proline', 'target']
+2026-07-17 13:30:46 | INFO | M03 | Train instances: 142
+2026-07-17 13:30:46 | INFO | M03 | Test instances: 36
+2026-07-17 13:30:46 | INFO | M03 | Fitting DecisionTreeClassifier(max_depth=3)
+2026-07-17 13:30:46 | INFO | M03 | Test accuracy: 0.944
+2026-07-17 13:30:46 | INFO | M03 | Per-class precision / recall / F1:
+2026-07-17 13:30:46 | DEBUG | M03 | 
+              precision    recall  f1-score   support
+
+           0       1.00      0.92      0.96        12
+           1       0.88      1.00      0.93        14
+           2       1.00      0.90      0.95        10
+
+    accuracy                           0.94        36
+   macro avg       0.96      0.94      0.95        36
+weighted avg       0.95      0.94      0.94        36
+
+2026-07-17 13:30:46 | INFO | M03 | Showing confusion matrix (rows = actual, cols = predicted)
+2026-07-17 13:30:47 | DEBUG | M03 |   depth= 1  train=0.662  test=0.583
+2026-07-17 13:30:47 | DEBUG | M03 |   depth= 2  train=0.937  test=0.861
+2026-07-17 13:30:47 | DEBUG | M03 |   depth= 3  train=0.993  test=0.944
+2026-07-17 13:30:47 | DEBUG | M03 |   depth= 4  train=1.000  test=0.944
+2026-07-17 13:30:47 | DEBUG | M03 |   depth= 5  train=1.000  test=0.944
+2026-07-17 13:30:47 | DEBUG | M03 |   depth= 6  train=1.000  test=0.944
+2026-07-17 13:30:47 | DEBUG | M03 |   depth= 7  train=1.000  test=0.944
+2026-07-17 13:30:47 | DEBUG | M03 |   depth= 8  train=1.000  test=0.944
+2026-07-17 13:30:47 | DEBUG | M03 |   depth= 9  train=1.000  test=0.944
+2026-07-17 13:30:47 | DEBUG | M03 |   depth=10  train=1.000  test=0.944
+2026-07-17 13:30:47 | DEBUG | M03 |   depth=11  train=1.000  test=0.944
+2026-07-17 13:30:47 | DEBUG | M03 |   depth=12  train=1.000  test=0.944
+2026-07-17 13:31:51 | INFO | M03 | === RUN START ===
+2026-07-17 13:31:51 | INFO | M03 | project=M03
+2026-07-17 13:31:51 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 13:31:51 | INFO | M03 | python=3.14.0
+2026-07-17 13:31:51 | INFO | M03 | os=Windows 11
+2026-07-17 13:31:51 | INFO | M03 | shell=powershell
+2026-07-17 13:31:51 | INFO | M03 | cwd=notebooks
+2026-07-17 13:31:51 | INFO | M03 | github_actions=False
+2026-07-17 13:31:51 | INFO | M03 | Confirming installation:
+2026-07-17 13:31:51 | INFO | M03 |   python:       3.14.0
+2026-07-17 13:31:51 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 13:31:51 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 13:31:51 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 13:31:51 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 13:31:51 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 13:31:51 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 13:31:51 | INFO | M03 | Missing values: 0
+2026-07-17 13:31:51 | INFO | M03 | Correlation range for target variable: -0.8474975401417585 to 1.0
+2026-07-17 13:31:51 | INFO | M03 | Strong correlations with target:
+['alcalinity_of_ash', 'total_phenols', 'flavanoids', 'hue', 'od280/od315_of_diluted_wines', 'proline', 'target']
+2026-07-17 13:31:58 | INFO | M03 | Train instances: 142
+2026-07-17 13:31:58 | INFO | M03 | Test instances: 36
+2026-07-17 13:31:59 | INFO | M03 | Fitting DecisionTreeClassifier(max_depth=3)
+2026-07-17 13:31:59 | INFO | M03 | Test accuracy: 0.944
+2026-07-17 13:31:59 | INFO | M03 | Per-class precision / recall / F1:
+2026-07-17 13:31:59 | DEBUG | M03 | 
+              precision    recall  f1-score   support
+
+           0       1.00      0.92      0.96        12
+           1       0.88      1.00      0.93        14
+           2       1.00      0.90      0.95        10
+
+    accuracy                           0.94        36
+   macro avg       0.96      0.94      0.95        36
+weighted avg       0.95      0.94      0.94        36
+
+2026-07-17 13:31:59 | INFO | M03 | Showing confusion matrix (rows = actual, cols = predicted)
+2026-07-17 13:31:59 | DEBUG | M03 |   depth= 1  train=0.662  test=0.583
+2026-07-17 13:31:59 | DEBUG | M03 |   depth= 2  train=0.937  test=0.861
+2026-07-17 13:31:59 | DEBUG | M03 |   depth= 3  train=0.993  test=0.944
+2026-07-17 13:31:59 | DEBUG | M03 |   depth= 4  train=1.000  test=0.944
+2026-07-17 13:31:59 | DEBUG | M03 |   depth= 5  train=1.000  test=0.944
+2026-07-17 13:31:59 | DEBUG | M03 |   depth= 6  train=1.000  test=0.944
+2026-07-17 13:31:59 | DEBUG | M03 |   depth= 7  train=1.000  test=0.944
+2026-07-17 13:31:59 | DEBUG | M03 |   depth= 8  train=1.000  test=0.944
+2026-07-17 13:31:59 | DEBUG | M03 |   depth= 9  train=1.000  test=0.944
+2026-07-17 13:31:59 | DEBUG | M03 |   depth=10  train=1.000  test=0.944
+2026-07-17 13:31:59 | DEBUG | M03 |   depth=11  train=1.000  test=0.944
+2026-07-17 13:31:59 | DEBUG | M03 |   depth=12  train=1.000  test=0.944
+2026-07-17 13:33:25 | INFO | M03 | === RUN START ===
+2026-07-17 13:33:25 | INFO | M03 | project=M03
+2026-07-17 13:33:25 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 13:33:25 | INFO | M03 | python=3.14.0
+2026-07-17 13:33:25 | INFO | M03 | os=Windows 11
+2026-07-17 13:33:25 | INFO | M03 | shell=powershell
+2026-07-17 13:33:25 | INFO | M03 | cwd=notebooks
+2026-07-17 13:33:25 | INFO | M03 | github_actions=False
+2026-07-17 13:33:25 | INFO | M03 | Confirming installation:
+2026-07-17 13:33:25 | INFO | M03 |   python:       3.14.0
+2026-07-17 13:33:25 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 13:33:25 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 13:33:25 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 13:33:25 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 13:33:25 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 13:33:25 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 13:33:25 | INFO | M03 | Missing values: 0
+2026-07-17 13:33:25 | INFO | M03 | Correlation range for target variable: -0.8474975401417585 to 1.0
+2026-07-17 13:33:25 | INFO | M03 | Strong correlations with target:
+['alcalinity_of_ash', 'total_phenols', 'flavanoids', 'hue', 'od280/od315_of_diluted_wines', 'proline', 'target']
+2026-07-17 13:33:33 | INFO | M03 | Train instances: 142
+2026-07-17 13:33:33 | INFO | M03 | Test instances: 36
+2026-07-17 13:33:33 | INFO | M03 | Fitting DecisionTreeClassifier(max_depth=3)
+2026-07-17 13:33:33 | INFO | M03 | Test accuracy: 0.944
+2026-07-17 13:33:33 | INFO | M03 | Per-class precision / recall / F1:
+2026-07-17 13:33:33 | DEBUG | M03 | 
+              precision    recall  f1-score   support
+
+           0       1.00      0.92      0.96        12
+           1       0.88      1.00      0.93        14
+           2       1.00      0.90      0.95        10
+
+    accuracy                           0.94        36
+   macro avg       0.96      0.94      0.95        36
+weighted avg       0.95      0.94      0.94        36
+
+2026-07-17 13:33:33 | INFO | M03 | Showing confusion matrix (rows = actual, cols = predicted)
+2026-07-17 13:33:33 | DEBUG | M03 |   depth= 1  train=0.662  test=0.583
+2026-07-17 13:33:33 | DEBUG | M03 |   depth= 2  train=0.937  test=0.861
+2026-07-17 13:33:33 | DEBUG | M03 |   depth= 3  train=0.993  test=0.944
+2026-07-17 13:33:34 | DEBUG | M03 |   depth= 4  train=1.000  test=0.944
+2026-07-17 13:33:34 | DEBUG | M03 |   depth= 5  train=1.000  test=0.944
+2026-07-17 13:33:34 | DEBUG | M03 |   depth= 6  train=1.000  test=0.944
+2026-07-17 13:33:34 | DEBUG | M03 |   depth= 7  train=1.000  test=0.944
+2026-07-17 13:33:34 | DEBUG | M03 |   depth= 8  train=1.000  test=0.944
+2026-07-17 13:33:34 | DEBUG | M03 |   depth= 9  train=1.000  test=0.944
+2026-07-17 13:33:34 | DEBUG | M03 |   depth=10  train=1.000  test=0.944
+2026-07-17 13:33:34 | DEBUG | M03 |   depth=11  train=1.000  test=0.944
+2026-07-17 13:33:34 | DEBUG | M03 |   depth=12  train=1.000  test=0.944
+2026-07-17 13:36:10 | INFO | M03 | === RUN START ===
+2026-07-17 13:36:10 | INFO | M03 | project=M03
+2026-07-17 13:36:10 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 13:36:10 | INFO | M03 | python=3.14.0
+2026-07-17 13:36:10 | INFO | M03 | os=Windows 11
+2026-07-17 13:36:10 | INFO | M03 | shell=powershell
+2026-07-17 13:36:10 | INFO | M03 | cwd=notebooks
+2026-07-17 13:36:10 | INFO | M03 | github_actions=False
+2026-07-17 13:36:10 | INFO | M03 | Confirming installation:
+2026-07-17 13:36:10 | INFO | M03 |   python:       3.14.0
+2026-07-17 13:36:10 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 13:36:10 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 13:36:10 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 13:36:10 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 13:36:10 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 13:36:10 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 13:36:10 | INFO | M03 | Missing values: 0
+2026-07-17 13:36:10 | INFO | M03 | Correlation range for target variable: -0.8474975401417585 to 1.0
+2026-07-17 13:36:10 | INFO | M03 | Strong correlations with target:
+['alcalinity_of_ash', 'total_phenols', 'flavanoids', 'hue', 'od280/od315_of_diluted_wines', 'proline', 'target']
+2026-07-17 13:36:19 | INFO | M03 | Train instances: 142
+2026-07-17 13:36:19 | INFO | M03 | Test instances: 36
+2026-07-17 13:36:19 | INFO | M03 | Fitting DecisionTreeClassifier(max_depth=3)
+2026-07-17 13:36:19 | INFO | M03 | Test accuracy: 0.944
+2026-07-17 13:36:19 | INFO | M03 | Per-class precision / recall / F1:
+2026-07-17 13:36:19 | DEBUG | M03 | 
+              precision    recall  f1-score   support
+
+           0       1.00      0.92      0.96        12
+           1       0.88      1.00      0.93        14
+           2       1.00      0.90      0.95        10
+
+    accuracy                           0.94        36
+   macro avg       0.96      0.94      0.95        36
+weighted avg       0.95      0.94      0.94        36
+
+2026-07-17 13:36:19 | INFO | M03 | Showing confusion matrix (rows = actual, cols = predicted)
+2026-07-17 13:36:19 | DEBUG | M03 |   depth= 1  train=0.662  test=0.583
+2026-07-17 13:36:19 | DEBUG | M03 |   depth= 2  train=0.937  test=0.861
+2026-07-17 13:36:19 | DEBUG | M03 |   depth= 3  train=0.993  test=0.944
+2026-07-17 13:36:19 | DEBUG | M03 |   depth= 4  train=1.000  test=0.944
+2026-07-17 13:36:19 | DEBUG | M03 |   depth= 5  train=1.000  test=0.944
+2026-07-17 13:36:19 | DEBUG | M03 |   depth= 6  train=1.000  test=0.944
+2026-07-17 13:36:19 | DEBUG | M03 |   depth= 7  train=1.000  test=0.944
+2026-07-17 13:36:19 | DEBUG | M03 |   depth= 8  train=1.000  test=0.944
+2026-07-17 13:36:19 | DEBUG | M03 |   depth= 9  train=1.000  test=0.944
+2026-07-17 13:36:19 | DEBUG | M03 |   depth=10  train=1.000  test=0.944
+2026-07-17 13:36:19 | DEBUG | M03 |   depth=11  train=1.000  test=0.944
+2026-07-17 13:36:19 | DEBUG | M03 |   depth=12  train=1.000  test=0.944
+2026-07-17 13:37:26 | INFO | M03 | === RUN START ===
+2026-07-17 13:37:26 | INFO | M03 | project=M03
+2026-07-17 13:37:26 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 13:37:26 | INFO | M03 | python=3.14.0
+2026-07-17 13:37:26 | INFO | M03 | os=Windows 11
+2026-07-17 13:37:26 | INFO | M03 | shell=powershell
+2026-07-17 13:37:26 | INFO | M03 | cwd=notebooks
+2026-07-17 13:37:26 | INFO | M03 | github_actions=False
+2026-07-17 13:37:26 | INFO | M03 | Confirming installation:
+2026-07-17 13:37:26 | INFO | M03 |   python:       3.14.0
+2026-07-17 13:37:26 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 13:37:26 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 13:37:26 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 13:37:26 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 13:37:26 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 13:37:26 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 13:37:26 | INFO | M03 | Missing values: 0
+2026-07-17 13:37:26 | INFO | M03 | Correlation range for target variable: -0.8474975401417585 to 1.0
+2026-07-17 13:37:26 | INFO | M03 | Strong correlations with target:
+['alcalinity_of_ash', 'total_phenols', 'flavanoids', 'hue', 'od280/od315_of_diluted_wines', 'proline', 'target']
+2026-07-17 13:37:34 | INFO | M03 | Train instances: 142
+2026-07-17 13:37:34 | INFO | M03 | Test instances: 36
+2026-07-17 13:37:34 | INFO | M03 | Fitting DecisionTreeClassifier(max_depth=3)
+2026-07-17 13:37:34 | INFO | M03 | Test accuracy: 0.944
+2026-07-17 13:37:34 | INFO | M03 | Per-class precision / recall / F1:
+2026-07-17 13:37:34 | DEBUG | M03 | 
+              precision    recall  f1-score   support
+
+           0       1.00      0.92      0.96        12
+           1       0.88      1.00      0.93        14
+           2       1.00      0.90      0.95        10
+
+    accuracy                           0.94        36
+   macro avg       0.96      0.94      0.95        36
+weighted avg       0.95      0.94      0.94        36
+
+2026-07-17 13:37:34 | INFO | M03 | Showing confusion matrix (rows = actual, cols = predicted)
+2026-07-17 13:37:34 | DEBUG | M03 |   depth= 1  train=0.662  test=0.583
+2026-07-17 13:37:34 | DEBUG | M03 |   depth= 2  train=0.937  test=0.861
+2026-07-17 13:37:34 | DEBUG | M03 |   depth= 3  train=0.993  test=0.944
+2026-07-17 13:37:34 | DEBUG | M03 |   depth= 4  train=1.000  test=0.944
+2026-07-17 13:37:34 | DEBUG | M03 |   depth= 5  train=1.000  test=0.944
+2026-07-17 13:37:34 | DEBUG | M03 |   depth= 6  train=1.000  test=0.944
+2026-07-17 13:37:34 | DEBUG | M03 |   depth= 7  train=1.000  test=0.944
+2026-07-17 13:37:34 | DEBUG | M03 |   depth= 8  train=1.000  test=0.944
+2026-07-17 13:37:34 | DEBUG | M03 |   depth= 9  train=1.000  test=0.944
+2026-07-17 13:37:34 | DEBUG | M03 |   depth=10  train=1.000  test=0.944
+2026-07-17 13:37:34 | DEBUG | M03 |   depth=11  train=1.000  test=0.944
+2026-07-17 13:37:34 | DEBUG | M03 |   depth=12  train=1.000  test=0.944
+2026-07-17 13:38:31 | INFO | ML | === RUN START ===
+2026-07-17 13:38:31 | INFO | ML | project=ML
+2026-07-17 13:38:31 | INFO | ML | repo_dir=ml-03-classification
+2026-07-17 13:38:31 | INFO | ML | python=3.14.0
+2026-07-17 13:38:31 | INFO | ML | os=Windows 11
+2026-07-17 13:38:31 | INFO | ML | shell=powershell
+2026-07-17 13:38:31 | INFO | ML | cwd=.
+2026-07-17 13:38:31 | INFO | ML | github_actions=False
+2026-07-17 13:39:45 | INFO | ML | === RUN START ===
+2026-07-17 13:39:45 | INFO | ML | project=ML
+2026-07-17 13:39:45 | INFO | ML | repo_dir=ml-03-classification
+2026-07-17 13:39:45 | INFO | ML | python=3.14.0
+2026-07-17 13:39:45 | INFO | ML | os=Windows 11
+2026-07-17 13:39:45 | INFO | ML | shell=powershell
+2026-07-17 13:39:45 | INFO | ML | cwd=.
+2026-07-17 13:39:45 | INFO | ML | github_actions=False
+2026-07-17 13:42:59 | INFO | M03 | === RUN START ===
+2026-07-17 13:42:59 | INFO | M03 | project=M03
+2026-07-17 13:42:59 | INFO | M03 | repo_dir=ml-03-classification
+2026-07-17 13:42:59 | INFO | M03 | python=3.14.0
+2026-07-17 13:42:59 | INFO | M03 | os=Windows 11
+2026-07-17 13:42:59 | INFO | M03 | shell=powershell
+2026-07-17 13:42:59 | INFO | M03 | cwd=notebooks
+2026-07-17 13:42:59 | INFO | M03 | github_actions=False
+2026-07-17 13:42:59 | INFO | M03 | Confirming installation:
+2026-07-17 13:42:59 | INFO | M03 |   python:       3.14.0
+2026-07-17 13:42:59 | INFO | M03 |   pandas:       3.0.3
+2026-07-17 13:42:59 | INFO | M03 |   numpy:        2.5.1
+2026-07-17 13:42:59 | INFO | M03 |   scikit-learn: 1.9.0
+2026-07-17 13:42:59 | INFO | M03 |   seaborn:      0.13.2
+2026-07-17 13:42:59 | INFO | M03 |   matplotlib:   3.11.0
+2026-07-17 13:42:59 | INFO | M03 | Loaded: 178 rows (instances), 14 columns
+2026-07-17 13:42:59 | INFO | M03 | Missing values: 0
+2026-07-17 13:42:59 | INFO | M03 | Correlation range for target variable: -0.8474975401417585 to 1.0
+2026-07-17 13:42:59 | INFO | M03 | Strong correlations with target:
+['alcalinity_of_ash', 'total_phenols', 'flavanoids', 'hue', 'od280/od315_of_diluted_wines', 'proline', 'target']
+2026-07-17 13:43:07 | INFO | M03 | Train instances: 142
+2026-07-17 13:43:07 | INFO | M03 | Test instances: 36
+2026-07-17 13:43:07 | INFO | M03 | Fitting DecisionTreeClassifier(max_depth=3)
+2026-07-17 13:43:07 | INFO | M03 | Test accuracy: 0.944
+2026-07-17 13:43:07 | INFO | M03 | Per-class precision / recall / F1:
+2026-07-17 13:43:07 | DEBUG | M03 | 
+              precision    recall  f1-score   support
+
+           0       1.00      0.92      0.96        12
+           1       0.88      1.00      0.93        14
+           2       1.00      0.90      0.95        10
+
+    accuracy                           0.94        36
+   macro avg       0.96      0.94      0.95        36
+weighted avg       0.95      0.94      0.94        36
+
+2026-07-17 13:43:07 | INFO | M03 | Showing confusion matrix (rows = actual, cols = predicted)
+2026-07-17 13:43:08 | DEBUG | M03 |   depth= 1  train=0.662  test=0.583
+2026-07-17 13:43:08 | DEBUG | M03 |   depth= 2  train=0.937  test=0.861
+2026-07-17 13:43:08 | DEBUG | M03 |   depth= 3  train=0.993  test=0.944
+2026-07-17 13:43:08 | DEBUG | M03 |   depth= 4  train=1.000  test=0.944
+2026-07-17 13:43:08 | DEBUG | M03 |   depth= 5  train=1.000  test=0.944
+2026-07-17 13:43:08 | DEBUG | M03 |   depth= 6  train=1.000  test=0.944
+2026-07-17 13:43:08 | DEBUG | M03 |   depth= 7  train=1.000  test=0.944
+2026-07-17 13:43:08 | DEBUG | M03 |   depth= 8  train=1.000  test=0.944
+2026-07-17 13:43:08 | DEBUG | M03 |   depth= 9  train=1.000  test=0.944
+2026-07-17 13:43:08 | DEBUG | M03 |   depth=10  train=1.000  test=0.944
+2026-07-17 13:43:08 | DEBUG | M03 |   depth=11  train=1.000  test=0.944
+2026-07-17 13:43:08 | DEBUG | M03 |   depth=12  train=1.000  test=0.944
+2026-07-17 13:44:29 | INFO | ML | === RUN START ===
+2026-07-17 13:44:29 | INFO | ML | project=ML
+2026-07-17 13:44:29 | INFO | ML | repo_dir=ml-03-classification
+2026-07-17 13:44:29 | INFO | ML | python=3.14.0
+2026-07-17 13:44:29 | INFO | ML | os=Windows 11
+2026-07-17 13:44:29 | INFO | ML | shell=powershell
+2026-07-17 13:44:29 | INFO | ML | cwd=.
+2026-07-17 13:44:29 | INFO | ML | github_actions=False
