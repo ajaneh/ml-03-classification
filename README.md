@@ -20,9 +20,8 @@ We learn to:
 
 Links:
 
-- [ml_03_case.ipynb](notebooks/ml_03_case.ipynb)
-
-
+- [Instructor Notebook](notebooks/ml_03_case.ipynb)
+- [My notebook](notebooks/ml_03_al.ipynb)
 
 
 ## Command Reference
@@ -64,6 +63,10 @@ uvx pre-commit run --all-files
 
 # run the example module to verify the environment (.venv/)
 uv run python -m mlstudio.app_case
+# run the notebook
+cd notebooks
+select kernel
+run all
 
 # run common chores
 uv run ruff format .
@@ -81,33 +84,12 @@ git push -u origin main
 </details>
 
 ## Findings and Visuals
+![Selecting K](docs/images/choosingk.png)
 
-Take screenshots of your charts and provide them here with a discussion.
-In Markdown, display a figure by using:
-an exclamation mark immediately followed by square brackets containing a useful caption
-immediately followed by parentheses containing the relative path to your figure.
-Note: When you start typing the path with a dot (.) for "here, in this directory",
-the IDE may help complete the path.
 
-In your custom project, follow this example, but
+![Model Comparison](docs/images/model_comparison.png)
 
-- your figures and narrative should reflect your work,
-- this `README.md` should include your commands, process, and visuals, and
-- `docs/index.md` should include your narrative.
-
-Remove unnecessary instructional comments in your custom files.
-
-Update figures to present interesting results from your custom project:
-
-![Provide a Useful Caption](./docs/images/Figure_1.png)
-
-![Provide a Useful Caption](./docs/images/Figure_2.png)
-
-## Project Documentation
-
-Additional project instructions, terms, and notes:
-
-[docs/index.md](docs/index.md)
+![Selected Features](docs/images/feature_influence.png)
 
 ## Citation
 
