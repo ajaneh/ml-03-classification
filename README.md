@@ -91,6 +91,10 @@ git push -u origin main
 
 ![Selected Features](docs/images/feature_influence.png)
 
+## Data Source
+This toy dataset looks at 178 Italian Wines made by 3 different "Cultivars".
+Lichman, M. (2013). UCI Machine Learning Repository [https://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
+
 ## Citation
 
 [CITATION.cff](./CITATION.cff)
